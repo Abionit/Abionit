@@ -1,65 +1,102 @@
 # 🛡️ Miguel Ángel Torres Mercado
 
-**Offensive Cybersecurity Specialist | Pentester & Ethical Hacker**  
+**Offensive Cybersecurity Specialist | Pentester & Ethical Hacker**
 
 📍 Cartagena, Colombia  
-📧 miguelangeltorresmercado58@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290)
+📧 contactmeva@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290)  
+🌐 [GitHub Profile](https://github.com/tu_usuario) <!-- Cambia este enlace por tu GitHub -->
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a specialist in **offensive cybersecurity** and a **Systems Engineering** student with experience in **penetration testing, vulnerability assessment, red teaming, and automation with Python and Bash**.  
-Passionate about ethical hacking, digital forensics, and security tool development.
+Security enthusiast specialized in **offensive cybersecurity**, currently studying **Systems Engineering**. Experienced in **penetration testing, vulnerability analysis, red teaming, and automation with Python and Bash**.  
+Passionate about ethical hacking, digital forensics, and developing security tools.
 
 ---
 
-## 🧰 Technical Skills
+## 🛠️ Technologies & Tools
 
-### 🔹 Pentesting & Red Team
-- OWASP Top 10, vulnerability exploitation, privilege escalation  
-- Web, mobile, and network penetration testing  
-- Attack simulations: MITM, phishing, Active Directory attacks, CVEs  
+### 💻 Programming & Automation  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)  
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell)
 
-### 🔹 Advanced Pentesting & Exploitation Tools
+### 🔍 Pentesting & Exploitation Tools  
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-E04E2D?style=for-the-badge&logo=burpsuite)  
+![Metasploit](https://img.shields.io/badge/-Metasploit-6F2F8D?style=for-the-badge&logo=metasploit)  
+![Nmap](https://img.shields.io/badge/-Nmap-C9152A?style=for-the-badge&logo=nmap)  
+![SQLMap](https://img.shields.io/badge/-SQLMap-007FFF?style=for-the-badge)  
+![Hydra](https://img.shields.io/badge/-Hydra-0090FF?style=for-the-badge)  
+![Nikto](https://img.shields.io/badge/-Nikto-F5C211?style=for-the-badge)  
+![JohnTheRipper](https://img.shields.io/badge/-John_the_Ripper-000000?style=for-the-badge)  
+![Mimikatz](https://img.shields.io/badge/-Mimikatz-000000?style=for-the-badge)  
+![CrackMapExec](https://img.shields.io/badge/-CrackMapExec-1B4F72?style=for-the-badge)  
+![Impacket](https://img.shields.io/badge/-Impacket-FF6F61?style=for-the-badge)  
+![Responder](https://img.shields.io/badge/-Responder-4183C4?style=for-the-badge)  
+![PowerSploit](https://img.shields.io/badge/-PowerSploit-7A287D?style=for-the-badge)  
+![Setoolkit](https://img.shields.io/badge/-SET-Social_Engineer_Toolkit-FF6600?style=for-the-badge)  
 
-#### 🕸 Web Application Pentesting
-- **Burp Suite**: Proxy, Repeater, Intruder, Scanner, Collaborator, Decoder  
-  Advanced extensions: Param Miner, HTTP Request Smuggler, DOM Invader, SAML Raider, Agartha, Turbo Intruder, JWT Editor, Server-Side Prototype Pollution Scanner, Java Deserialization Scanner, Hackvertor, Logger++, Burp Bounty Pro, Taborator  
-- **OWASP ZAP**, **SQLMap**, **WPScan**, **ffuf (fuff)**, **Feroxbuster**, **Kiterunner**, **BatchQL**, **GraphQLmap**, **GraphQL Voyager**, **curl**, **Acunetix**
+### 🌐 Recon & OSINT  
+![Shodan](https://img.shields.io/badge/-Shodan-0E0E0E?style=for-the-badge&logo=shodan)  
+![TheHarvester](https://img.shields.io/badge/-TheHarvester-FF8C00?style=for-the-badge)  
+![Maltego](https://img.shields.io/badge/-Maltego-139DC9?style=for-the-badge)  
+![GoogleDorking](https://img.shields.io/badge/-Google_Dorking-4285F4?style=for-the-badge)  
+![Amass](https://img.shields.io/badge/-Amass-5A5A5A?style=for-the-badge)  
+![Subfinder](https://img.shields.io/badge/-Subfinder-3B94D9?style=for-the-badge)  
+![DNSRecon](https://img.shields.io/badge/-DNSRecon-1B9BE0?style=for-the-badge)  
+![crt.sh](https://img.shields.io/badge/-crt.sh-2C3E50?style=for-the-badge)
 
-#### 🖥️ Network & System Exploitation
-- **Metasploit**, **Cobalt Strike**, **Empire**, **Mimikatz**, **John the Ripper**, **Hydra**, **CrackMapExec**, **Impacket**, **Responder**, **PowerSploit**, **Turbo Intruder**, **Setoolkit (SET)**
+### 📡 Network Scanning & Analysis  
+![Wireshark](https://img.shields.io/badge/-Wireshark-0678BE?style=for-the-badge&logo=wireshark)  
+![Tcpdump](https://img.shields.io/badge/-Tcpdump-255C99?style=for-the-badge)  
+![Snort](https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge)  
+![Nessus](https://img.shields.io/badge/-Nessus-E42314?style=for-the-badge)  
+![OpenVAS](https://img.shields.io/badge/-OpenVAS-40D47E?style=for-the-badge)  
+![Netcat](https://img.shields.io/badge/-Netcat-2C3E50?style=for-the-badge)
 
-#### 🌐 Recon & OSINT
-- **Shodan**, **TheHarvester**, **Maltego**, **Recon-ng**, **Google Dorking**, **WHOIS**, **Wappalyzer**, **BuiltWith**  
-- Subdomain enumeration: **Amass**, **Subfinder**, **Sublist3r**, **DNSRecon**, **DNSdumpster**, **Knock (Knockpy)**, **SubBrute**, **AltDNS**, **Fierce**, **crt.sh (SET)**, **Wback URL**, **Sherlock**, **KXSS**, **ExcSOR**, **Olge (Tabor)**, **Ignorant**
-
-#### 📡 Network Scanning & Sniffing
-- **Nmap / Zenmap**, **Nessus**, **OpenVAS**, **Wireshark**, **Tcpdump**, **Snort**, **Angry IP Scanner**, **Netcat**, **QualysGuard**, **Nexpose**, **Xprobe2**, **Cron-OS**, **hping**, **SinFP**, **p0f**, **ettercap**, **Kismet**, **Aircrack-ng**, **Asleap**, **traceroute**
+### 🖥️ Environments & Distros  
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux)  
+![Parrot Security OS](https://img.shields.io/badge/-Parrot_OS-90B900?style=for-the-badge&logo=parrot)  
+![BackTrack](https://img.shields.io/badge/-BackTrack-1A1A1A?style=for-the-badge)  
+![Security Onion](https://img.shields.io/badge/-Security_Onion-4E9A06?style=for-the-badge)  
 
 ---
 
-### 🔹 Programming & Automation
-- **Python**, **Bash**, **C++**, **PowerShell (basic)**  
-- Automation of scanning, fuzzing, exploitation, and reporting.
+## 📂 Portfolio & Write-ups
 
-### 🔹 Digital Forensics & Incident Response
-- **Volatility**, **Autopsy**, **FTK Imager**  
-- Analysis of RAM, disks, logs, and evidence extraction.
-
-### 🔹 Security Environments & Distributions
-- **Kali Linux**, **Parrot Security OS**, **BackTrack**, **Metasploitable**, **Security Onion**, **Burp Professional**, **Knoppix STD**, **ELSA**
+- Detailed write-ups of penetration testing labs from **PortSwigger**, **HackTheBox**, **TryHackMe**.  
+- Custom scripts and automation tools in Python and Bash for vulnerability scanning and exploitation.  
+- [Explore my GitHub repositories](https://github.com/tu_usuario?tab=repositories) for all projects and write-ups.
 
 ---
 
-## 🧾 Certifications
+## 📊 GitHub Stats
+
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+📧 contactmeva@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290](https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290)  
+
+---
+
+## 🏆 Achievements & Certifications
 
 | Certification | Status |
 |---------------|--------|
-| 🏆 eJPT – eLearnSecurity Junior Penetration Tester |⏳ In Progress |
-| ⚔️ eWPTX – Web Application Penetration Tester eXtreme |⏳ In Progress |
-| 🎓 Google Professional Certificate in Cybersecurity | ✅ |
+| 🏅 eJPT – eLearnSecurity Junior Penetration Tester | ✅ Completed |
+| ⚔️ eWPTX – Web Application Penetration Tester eXtreme | ✅ Completed |
+| 🎓 Google Professional Certificate in Cybersecurity | ✅ Completed |
 | 💣 SANS GXPN – Exploit Researcher & Advanced Penetration Tester | ⏳ In Progress |
-| 💻 Talento Tech Colombia – Cybersecurity Course | ✅ |
+| 💻 Talento Tech Colombia – Cybersecurity Course | ✅ Completed |
+
+---
+
+*“The best defense is a good offense.”* 🛡️
