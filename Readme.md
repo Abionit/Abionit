@@ -78,14 +78,14 @@ I'm an **Offensive Cybersecurity Specialist** and Systems Engineering student fr
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelangeltorresmercado58&show_icons=true&theme=merko)
 
 ---
-
 ## 📚 Notable Projects
 
-- 🔨 [**HackTheBox Labs Write-Ups**](https://github.com/miguelangeltorresmercado58/htb-writeups) – Step-by-step walkthroughs of HTB labs.  
+- 🧾 [**Labs Write-Ups**](writeups/) – Step-by-step walkthroughs of labs (PortSwigger / HTB / CTFs) stored in this repository.  
 - 🌐 [**Pentesting Automation Scripts**](https://github.com/miguelangeltorresmercado58/pentest-scripts) – Python & Bash tools for scanning, fuzzing, and exploitation.  
 - 📘 [**CTF Challenges & Solutions**](https://github.com/miguelangeltorresmercado58/ctf-writeups) – Capture The Flag challenges and detailed write-ups.  
 
 ---
+
 
 ## 🎯 Certifications
 
