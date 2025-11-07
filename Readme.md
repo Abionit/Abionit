@@ -1,102 +1,355 @@
-# 🛡️ Miguel Ángel Torres Mercado
+<div align="center">
 
-**Offensive Cybersecurity Specialist | Pentester & Ethical Hacker**
+# ⚡ NEURAL LINK ESTABLISHED ⚡
 
-📍 Cartagena, Colombia  
-📧 contactmeva@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290)  
-🌐 [GitHub Profile](https://github.com/tu_usuario) <!-- Cambia este enlace por tu GitHub -->
+```
+██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗     ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
+██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
+███████║███████║██║     █████╔╝ █████╗  ██████╔╝       ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
+██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗       ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
+██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║       ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:00ffff,50:ff0080,75:00ffff,100:ff0080&height=180&section=header&text=◉%20Miguel Torres%20◉&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20CYBER%20OPERATIVE%20⚡&descAlignY=55&descAlign=50&descSize=20" alt="Cyberpunk Header" />
+
+```
+🔥 SYSTEM BREACH DETECTED 🔥
+⚡ ACCESSING MAINFRAME... ████████████ 100%
+💾 LOADING HACKER PROFILE...
+🌐 CONNECTION: SECURE
+```
 
 ---
 
-## 👨‍💻 About Me
+</div>
 
-Security enthusiast specialized in **offensive cybersecurity**, currently studying **Systems Engineering**. Experienced in **penetration testing, vulnerability analysis, red teaming, and automation with Python and Bash**.  
+## 🖥️ TERMINAL SESSION - USER: Miguel Torres 🖥️
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+```bash
+┌─[root@Abionit]─[~]
+└──╼ $ whoami
+MiddleIn
+
+┌─[root@Abionit]─[~]  
+└──╼ $ cat /etc/location
+cartagena, colombia
+
+┌─[root@Abionit]─[~]
+└──╼ $ systemctl status
+[Your currentStatus]
+```
+
+</td>
+<td width="50%">
+
+```bash
+┌─[root@Abionit]─[~]
+└──╼ $ cat ~/.profile
+HACKER_LEVEL=ELITE
+FIREWALL_STATUS=BYPASSED
+NEURAL_LINK=ACTIVE
+
+┌─[root@Abionit]─[~]
+└──╼ $ echo $MISSION
+Security enthusiast specialized in offensive cybersecurity, currently studying Systems Engineering. Experienced in penetration testing, vulnerability analysis, red teaming, and automation with Python and Bash.
 Passionate about ethical hacking, digital forensics, and developing security tools.
 
----
 
-## 🛠️ Technologies & Tools
+```
 
-### 💻 Programming & Automation  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)  
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell)
+</td>
+</tr>
+</table>
 
-### 🔍 Pentesting & Exploitation Tools  
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-E04E2D?style=for-the-badge&logo=burpsuite)  
-![Metasploit](https://img.shields.io/badge/-Metasploit-6F2F8D?style=for-the-badge&logo=metasploit)  
-![Nmap](https://img.shields.io/badge/-Nmap-C9152A?style=for-the-badge&logo=nmap)  
-![SQLMap](https://img.shields.io/badge/-SQLMap-007FFF?style=for-the-badge)  
-![Hydra](https://img.shields.io/badge/-Hydra-0090FF?style=for-the-badge)  
-![Nikto](https://img.shields.io/badge/-Nikto-F5C211?style=for-the-badge)  
-![JohnTheRipper](https://img.shields.io/badge/-John_the_Ripper-000000?style=for-the-badge)  
-![Mimikatz](https://img.shields.io/badge/-Mimikatz-000000?style=for-the-badge)  
-![CrackMapExec](https://img.shields.io/badge/-CrackMapExec-1B4F72?style=for-the-badge)  
-![Impacket](https://img.shields.io/badge/-Impacket-FF6F61?style=for-the-badge)  
-![Responder](https://img.shields.io/badge/-Responder-4183C4?style=for-the-badge)  
-![PowerSploit](https://img.shields.io/badge/-PowerSploit-7A287D?style=for-the-badge)  
-![Setoolkit](https://img.shields.io/badge/-SET-Social_Engineer_Toolkit-FF6600?style=for-the-badge)  
+```
+═══════════════════════════════════════════════════════════════════════════════
+⚡ NEURAL INTERFACE SYNCHRONIZED ⚡ ACCESSING DIGITAL UNDERGROUND ⚡
+═══════════════════════════════════════════════════════════════════════════════
+```
 
-### 🌐 Recon & OSINT  
-![Shodan](https://img.shields.io/badge/-Shodan-0E0E0E?style=for-the-badge&logo=shodan)  
-![TheHarvester](https://img.shields.io/badge/-TheHarvester-FF8C00?style=for-the-badge)  
-![Maltego](https://img.shields.io/badge/-Maltego-139DC9?style=for-the-badge)  
-![GoogleDorking](https://img.shields.io/badge/-Google_Dorking-4285F4?style=for-the-badge)  
-![Amass](https://img.shields.io/badge/-Amass-5A5A5A?style=for-the-badge)  
-![Subfinder](https://img.shields.io/badge/-Subfinder-3B94D9?style=for-the-badge)  
-![DNSRecon](https://img.shields.io/badge/-DNSRecon-1B9BE0?style=for-the-badge)  
-![crt.sh](https://img.shields.io/badge/-crt.sh-2C3E50?style=for-the-badge)
-
-### 📡 Network Scanning & Analysis  
-![Wireshark](https://img.shields.io/badge/-Wireshark-0678BE?style=for-the-badge&logo=wireshark)  
-![Tcpdump](https://img.shields.io/badge/-Tcpdump-255C99?style=for-the-badge)  
-![Snort](https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge)  
-![Nessus](https://img.shields.io/badge/-Nessus-E42314?style=for-the-badge)  
-![OpenVAS](https://img.shields.io/badge/-OpenVAS-40D47E?style=for-the-badge)  
-![Netcat](https://img.shields.io/badge/-Netcat-2C3E50?style=for-the-badge)
-
-### 🖥️ Environments & Distros  
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux)  
-![Parrot Security OS](https://img.shields.io/badge/-Parrot_OS-90B900?style=for-the-badge&logo=parrot)  
-![BackTrack](https://img.shields.io/badge/-BackTrack-1A1A1A?style=for-the-badge)  
-![Security Onion](https://img.shields.io/badge/-Security_Onion-4E9A06?style=for-the-badge)  
+</div>
 
 ---
 
-## 📂 Portfolio & Write-ups
+<div align="center">
 
-- Detailed write-ups of penetration testing labs from **PortSwigger**, **HackTheBox**, **TryHackMe**.  
-- Custom scripts and automation tools in Python and Bash for vulnerability scanning and exploitation.  
-- [Explore my GitHub repositories](https://github.com/tu_usuario?tab=repositories) for all projects and write-ups.
+## 🔥 CYBER ARSENAL - WEAPONS CACHE 🔥
+
+*Loading digital warfare toolkit...*
+
+![Tech Arsenal](https://github-readme-stats.vercel.app/api/top-langs/?username=Abionit&layout=compact&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=10)
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 💻 **CORE SYSTEMS**
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0033 50%, #330066 100%); padding: 20px; border: 2px solid #ff0080; border-radius: 15px;">
+
+![Primary Arsenal](https://skillicons.dev/icons?i=[Your skills]&theme=dark)
+
+```
+STATUS: LOADED
+THREAT: MAXIMUM
+```
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+### 🛡️ **FRAMEWORKS**
+<div style="background: linear-gradient(135deg, #0d1117 0%, #001a33 50%, #003366 100%); padding: 20px; border: 2px solid #00ffff; border-radius: 15px;">
+
+![Framework Shield](https://img.shields.io/badge/SHIELD-Python, Bash, C++, PowerShell (basic)-00ffff?style=for-the-badge&logo=shield&logoColor=white)
+
+```
+STATUS: ACTIVE
+DEFENSE: ONLINE
+```
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ **EXPLOITS**
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a3300 50%, #336600 100%); padding: 20px; border: 2px solid #00ff00; border-radius: 15px;">
+
+![Exploit Kit](https://img.shields.io/badge/EXPLOIT-we-00ff00?style=for-the-badge&logo=bug&logoColor=white)
+
+```
+STATUS: LEARNING
+PROGRESS: 67%
+```
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+### 🔐 **ENCRYPTION**
+<div style="background: linear-gradient(135deg, #0d1117 0%, #330011 50%, #660022 100%); padding: 20px; border: 2px solid #ff4444; border-radius: 15px;">
+
+![Security Level](https://img.shields.io/badge/SECURITY-MAXIMUM-ff4444?style=for-the-badge&logo=lock&logoColor=white)
+
+```
+STATUS: ENCRYPTED
+LEVEL: QUANTUM
+```
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+## 💾 ACTIVE OPERATIONS - CLASSIFIED FILES 💾
+
+```
+🔓 DECRYPTING PROJECT DATABASE...
+⚡ ACCESSING SECURE REPOSITORIES...
+🌐 LOADING OPERATION DETAILS...
+```
+
+![Matrix Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🔥 **OPERATION PHOENIX**
+#### 💻 [Your project1Name] 💻
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abionit&repo=[Your project1Name]&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=10" width="100%">
+</div>
+
+```bash
+┌─[CLASSIFIED]─[OPERATION_PHOENIX]
+└──╼ $ cat mission_brief.txt
+THREAT LEVEL: ████████████ HIGH
+ENCRYPTION: AES-256
+STATUS: INFILTRATING TARGET
+```
+
+*[Your project1Description]*
+
+[![ACCESS TERMINAL](https://img.shields.io/badge/🔓_ACCESS_TERMINAL-ff0080?style=for-the-badge&logo=terminal&logoColor=white)]([Your project1Link])
+
+</td>
+<td width="50%" align="center">
+
+### ⚡ **OPERATION NEON**
+#### 💻 [Your project2Name] 💻
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abionit&repo=[Your project2Name]&theme=synthwave&bg_color=0d1117&border_color=00ffff&title_color=ff0080&text_color=ffffff&icon_color=00ffff&hide_border=true&border_radius=10" width="100%">
+</div>
+
+```bash
+┌─[CLASSIFIED]─[OPERATION_NEON]
+└──╼ $ cat mission_brief.txt
+THREAT LEVEL: ████████████ CRITICAL
+ENCRYPTION: QUANTUM
+STATUS: BREACHING FIREWALL
+```
+
+*[Your project2Description]*
+
+[![HACK MAINFRAME](https://img.shields.io/badge/⚡_HACK_MAINFRAME-00ffff?style=for-the-badge&logo=hackerrank&logoColor=black)]([Your project2Link])
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🌐 **OPERATION MATRIX**
+#### 💻 [Your project3Name] 💻
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abionit&repo=[Your project3Name]&theme=synthwave&bg_color=0d1117&border_color=00ff00&title_color=ff4444&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=10" width="60%">
+</div>
+
+```bash
+┌─[TOP_SECRET]─[OPERATION_MATRIX]
+└──╼ $ cat mission_brief.txt
+THREAT LEVEL: ████████████ MAXIMUM
+ENCRYPTION: NEURAL_LINK
+STATUS: ACCESSING THE MATRIX
+CLEARANCE: EYES ONLY
+```
+
+*[Your project3Description]*
+
+[![ENTER MATRIX](https://img.shields.io/badge/🌐_ENTER_MATRIX-00ff00?style=for-the-badge&logo=matrix&logoColor=black)]([Your project3Link])
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contact Me
+<div align="center">
 
-📧 contactmeva@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290](https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290)  
+## 📊 SYSTEM DIAGNOSTICS - NEURAL ANALYTICS 📊
+
+```
+🔥 RUNNING DEEP SYSTEM SCAN...
+⚡ ANALYZING NEURAL PATTERNS...
+💾 GENERATING HACKER METRICS...
+```
+
+![Activity Matrix](https://github-readme-activity-graph.vercel.app/graph?username=Abionit&bg_color=0d1117&color=ff0080&line=00ffff&point=ffffff&area=true&hide_border=true&theme=synthwave)
+
+<table>
+<tr>
+<td align="center">
+
+![Hacker Stats](https://github-readme-stats.vercel.app/api?username=Abionit&show_icons=true&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=15)
+
+</td>
+<td align="center">
+
+![Code Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abionit&theme=synthwave&background=0d1117&border=00ffff&stroke=ff0080&ring=00ffff&fire=ff0080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=ffffff&hide_border=true&border_radius=15)
+
+</td>
+</tr>
+</table>
+
+### 🔥 **NEURAL NETWORK STATUS** 🔥
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🖥️  TERMINAL METRICS                                       │
+├─────────────────────────────────────────────────────────────┤
+│  ⚡ ACTIVE CONNECTIONS: [VISITOR_COUNT]                     │
+│  💾 REPOSITORIES HACKED: [REPO_COUNT]                      │
+│  🔥 COMMITS PUSHED: [COMMIT_COUNT]                         │
+│  🌐 NEURAL UPTIME: [STREAK_DAYS] DAYS                      │
+│  🛡️ SECURITY BREACHES: 0 (UNHACKABLE)                     │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Digital Trophies](https://github-profile-trophy.vercel.app/?username=Abionit&theme=synthwave&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&border_color=ff0080&title_color=00ffff)
+
+</div>
+
+</div>
 
 ---
 
-## 🏆 Achievements & Certifications
+<div align="center">
 
-| Certification | Status |
-|---------------|--------|
-| 🏅 eJPT – eLearnSecurity Junior Penetration Tester | ✅ Completed |
-| ⚔️ eWPTX – Web Application Penetration Tester eXtreme | ✅ Completed |
-| 🎓 Google Professional Certificate in Cybersecurity | ✅ Completed |
-| 💣 SANS GXPN – Exploit Researcher & Advanced Penetration Tester | ⏳ In Progress |
-| 💻 Talento Tech Colombia – Cybersecurity Course | ✅ Completed |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,25:ff0080,50:00ffff,75:ff0080,100:00ffff&height=150&section=footer&text=⚡%20HACK%20THE%20PLANET%20⚡&fontSize=28&fontColor=ffffff&animation=blinking&fontAlignY=75" alt="Cyberpunk Footer" />
+
+## 🌐 ESTABLISH SECURE CONNECTION 🌐
+
+*Choose your preferred communication protocol:*
+
+<table align="center">
+<tr>
+<td align="center">
+
+[![LinkedIn Terminal](https://img.shields.io/badge/💼_LINKEDIN_TERMINAL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](miguel-angel-torres-mercado-3b7bb8290)
+
+</td>
+<td align="center">
+
+[![Twitter Feed](https://img.shields.io/badge/🐦_TWITTER_FEED-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=001a33)]([Your twitter])
+
+</td>
+<td align="center">
+
+[![Web Portal](https://img.shields.io/badge/🌐_WEB_PORTAL-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a3300)]([Your website])
+
+</td>
+</tr>
+</table>
 
 ---
 
-*“The best defense is a good offense.”* 🛡️
+### 💾 **CONNECTION LOG** 💾
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Abionit/count.svg?color=ff0080&style=for-the-badge&background=0d1117" alt="Terminal Sessions" />
+</p>
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│  ⚡ "Welcome to the underground, fellow hacker.                                 │
+│     You've just connected to a secure terminal.                                │
+│     All communications are encrypted and untraceable.                          │
+│     Remember: Information wants to be free.                                    │
+│     Stay anonymous. Stay vigilant. Hack the planet." ⚡                        │
+│                                                                                 │
+│  💾 System Administrator: Miguel Torres                                             │
+│  🔥 Terminal ID: Abionit                                                  │
+│  🌐 Last Login: [TIMESTAMP_NOW]                                               │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<sub>*🔐 This terminal session is secured with quantum encryption. All data transmissions are protected by advanced cybersecurity protocols. 🔐*</sub>
+
+![Terminal End](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+</div>
