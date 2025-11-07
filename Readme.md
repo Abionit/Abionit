@@ -80,7 +80,7 @@ I'm an **Offensive Cybersecurity Specialist** and Systems Engineering student fr
 ---
 ## 📚 Notable Projects
 
-- 🧾 [**Labs Write-Ups**](writeups/blob/main/readme.md/) – Step-by-step walkthroughs of labs (PortSwigger / HTB / CTFs) stored in this repository.  
+- 🧾 [**Labs Write-Ups**](https://github.com/Abionit/writeups/) – Step-by-step walkthroughs of labs (PortSwigger / HTB / CTFs) stored in this repository.  
 - 🌐 [**Pentesting Automation Scripts**](https://github.com/miguelangeltorresmercado58/pentest-scripts) – Python & Bash tools for scanning, fuzzing, and exploitation.  
 - 📘 [**CTF Challenges & Solutions**](https://github.com/miguelangeltorresmercado58/ctf-writeups) – Capture The Flag challenges and detailed write-ups.  
 
