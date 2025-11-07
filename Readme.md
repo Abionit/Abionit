@@ -1,355 +1,65 @@
-<div align="center">
+# 🛡️ Miguel Ángel Torres Mercado
 
-# ⚡ NEURAL LINK ESTABLISHED ⚡
+**Offensive Cybersecurity Specialist | Pentester & Ethical Hacker**  
 
-```
-██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗     ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
-██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
-███████║███████║██║     █████╔╝ █████╗  ██████╔╝       ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
-██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗       ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
-██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║       ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:00ffff,50:ff0080,75:00ffff,100:ff0080&height=180&section=header&text=◉%20Miguel Torres%20◉&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20CYBER%20OPERATIVE%20⚡&descAlignY=55&descAlign=50&descSize=20" alt="Cyberpunk Header" />
-
-```
-🔥 SYSTEM BREACH DETECTED 🔥
-⚡ ACCESSING MAINFRAME... ████████████ 100%
-💾 LOADING HACKER PROFILE...
-🌐 CONNECTION: SECURE
-```
+📍 Cartagena, Colombia  
+📧 miguelangeltorresmercado58@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290)
 
 ---
 
-</div>
+## 👨‍💻 About Me
 
-## 🖥️ TERMINAL SESSION - USER: Miguel Torres 🖥️
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-```bash
-┌─[root@Abionit]─[~]
-└──╼ $ whoami
-MiddleIn
-
-┌─[root@Abionit]─[~]  
-└──╼ $ cat /etc/location
-cartagena, colombia
-
-┌─[root@Abionit]─[~]
-└──╼ $ systemctl status
-[Your currentStatus]
-```
-
-</td>
-<td width="50%">
-
-```bash
-┌─[root@Abionit]─[~]
-└──╼ $ cat ~/.profile
-HACKER_LEVEL=ELITE
-FIREWALL_STATUS=BYPASSED
-NEURAL_LINK=ACTIVE
-
-┌─[root@Abionit]─[~]
-└──╼ $ echo $MISSION
-Security enthusiast specialized in offensive cybersecurity, currently studying Systems Engineering. Experienced in penetration testing, vulnerability analysis, red teaming, and automation with Python and Bash.
-Passionate about ethical hacking, digital forensics, and developing security tools.
-
-
-```
-
-</td>
-</tr>
-</table>
-
-```
-═══════════════════════════════════════════════════════════════════════════════
-⚡ NEURAL INTERFACE SYNCHRONIZED ⚡ ACCESSING DIGITAL UNDERGROUND ⚡
-═══════════════════════════════════════════════════════════════════════════════
-```
-
-</div>
+I am a specialist in **offensive cybersecurity** and a **Systems Engineering** student with experience in **penetration testing, vulnerability assessment, red teaming, and automation with Python and Bash**.  
+Passionate about ethical hacking, digital forensics, and security tool development.
 
 ---
 
-<div align="center">
+## 🧰 Technical Skills
 
-## 🔥 CYBER ARSENAL - WEAPONS CACHE 🔥
+### 🔹 Pentesting & Red Team
+- OWASP Top 10, vulnerability exploitation, privilege escalation  
+- Web, mobile, and network penetration testing  
+- Attack simulations: MITM, phishing, Active Directory attacks, CVEs  
 
-*Loading digital warfare toolkit...*
+### 🔹 Advanced Pentesting & Exploitation Tools
 
-![Tech Arsenal](https://github-readme-stats.vercel.app/api/top-langs/?username=Abionit&layout=compact&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=10)
+#### 🕸 Web Application Pentesting
+- **Burp Suite**: Proxy, Repeater, Intruder, Scanner, Collaborator, Decoder  
+  Advanced extensions: Param Miner, HTTP Request Smuggler, DOM Invader, SAML Raider, Agartha, Turbo Intruder, JWT Editor, Server-Side Prototype Pollution Scanner, Java Deserialization Scanner, Hackvertor, Logger++, Burp Bounty Pro, Taborator  
+- **OWASP ZAP**, **SQLMap**, **WPScan**, **ffuf (fuff)**, **Feroxbuster**, **Kiterunner**, **BatchQL**, **GraphQLmap**, **GraphQL Voyager**, **curl**, **Acunetix**
 
-</div>
+#### 🖥️ Network & System Exploitation
+- **Metasploit**, **Cobalt Strike**, **Empire**, **Mimikatz**, **John the Ripper**, **Hydra**, **CrackMapExec**, **Impacket**, **Responder**, **PowerSploit**, **Turbo Intruder**, **Setoolkit (SET)**
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
+#### 🌐 Recon & OSINT
+- **Shodan**, **TheHarvester**, **Maltego**, **Recon-ng**, **Google Dorking**, **WHOIS**, **Wappalyzer**, **BuiltWith**  
+- Subdomain enumeration: **Amass**, **Subfinder**, **Sublist3r**, **DNSRecon**, **DNSdumpster**, **Knock (Knockpy)**, **SubBrute**, **AltDNS**, **Fierce**, **crt.sh (SET)**, **Wback URL**, **Sherlock**, **KXSS**, **ExcSOR**, **Olge (Tabor)**, **Ignorant**
 
-### 💻 **CORE SYSTEMS**
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0033 50%, #330066 100%); padding: 20px; border: 2px solid #ff0080; border-radius: 15px;">
-
-![Primary Arsenal](https://skillicons.dev/icons?i=[Your skills]&theme=dark)
-
-```
-STATUS: LOADED
-THREAT: MAXIMUM
-```
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-### 🛡️ **FRAMEWORKS**
-<div style="background: linear-gradient(135deg, #0d1117 0%, #001a33 50%, #003366 100%); padding: 20px; border: 2px solid #00ffff; border-radius: 15px;">
-
-![Framework Shield](https://img.shields.io/badge/SHIELD-Python, Bash, C++, PowerShell (basic)-00ffff?style=for-the-badge&logo=shield&logoColor=white)
-
-```
-STATUS: ACTIVE
-DEFENSE: ONLINE
-```
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-### ⚡ **EXPLOITS**
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a3300 50%, #336600 100%); padding: 20px; border: 2px solid #00ff00; border-radius: 15px;">
-
-![Exploit Kit](https://img.shields.io/badge/EXPLOIT-we-00ff00?style=for-the-badge&logo=bug&logoColor=white)
-
-```
-STATUS: LEARNING
-PROGRESS: 67%
-```
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-### 🔐 **ENCRYPTION**
-<div style="background: linear-gradient(135deg, #0d1117 0%, #330011 50%, #660022 100%); padding: 20px; border: 2px solid #ff4444; border-radius: 15px;">
-
-![Security Level](https://img.shields.io/badge/SECURITY-MAXIMUM-ff4444?style=for-the-badge&logo=lock&logoColor=white)
-
-```
-STATUS: ENCRYPTED
-LEVEL: QUANTUM
-```
-
-</div>
-
-</td>
-</tr>
-</table>
+#### 📡 Network Scanning & Sniffing
+- **Nmap / Zenmap**, **Nessus**, **OpenVAS**, **Wireshark**, **Tcpdump**, **Snort**, **Angry IP Scanner**, **Netcat**, **QualysGuard**, **Nexpose**, **Xprobe2**, **Cron-OS**, **hping**, **SinFP**, **p0f**, **ettercap**, **Kismet**, **Aircrack-ng**, **Asleap**, **traceroute**
 
 ---
 
-<div align="center">
+### 🔹 Programming & Automation
+- **Python**, **Bash**, **C++**, **PowerShell (basic)**  
+- Automation of scanning, fuzzing, exploitation, and reporting.
 
-## 💾 ACTIVE OPERATIONS - CLASSIFIED FILES 💾
+### 🔹 Digital Forensics & Incident Response
+- **Volatility**, **Autopsy**, **FTK Imager**  
+- Analysis of RAM, disks, logs, and evidence extraction.
 
-```
-🔓 DECRYPTING PROJECT DATABASE...
-⚡ ACCESSING SECURE REPOSITORIES...
-🌐 LOADING OPERATION DETAILS...
-```
-
-![Matrix Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 🔥 **OPERATION PHOENIX**
-#### 💻 [Your project1Name] 💻
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abionit&repo=[Your project1Name]&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=10" width="100%">
-</div>
-
-```bash
-┌─[CLASSIFIED]─[OPERATION_PHOENIX]
-└──╼ $ cat mission_brief.txt
-THREAT LEVEL: ████████████ HIGH
-ENCRYPTION: AES-256
-STATUS: INFILTRATING TARGET
-```
-
-*[Your project1Description]*
-
-[![ACCESS TERMINAL](https://img.shields.io/badge/🔓_ACCESS_TERMINAL-ff0080?style=for-the-badge&logo=terminal&logoColor=white)]([Your project1Link])
-
-</td>
-<td width="50%" align="center">
-
-### ⚡ **OPERATION NEON**
-#### 💻 [Your project2Name] 💻
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abionit&repo=[Your project2Name]&theme=synthwave&bg_color=0d1117&border_color=00ffff&title_color=ff0080&text_color=ffffff&icon_color=00ffff&hide_border=true&border_radius=10" width="100%">
-</div>
-
-```bash
-┌─[CLASSIFIED]─[OPERATION_NEON]
-└──╼ $ cat mission_brief.txt
-THREAT LEVEL: ████████████ CRITICAL
-ENCRYPTION: QUANTUM
-STATUS: BREACHING FIREWALL
-```
-
-*[Your project2Description]*
-
-[![HACK MAINFRAME](https://img.shields.io/badge/⚡_HACK_MAINFRAME-00ffff?style=for-the-badge&logo=hackerrank&logoColor=black)]([Your project2Link])
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🌐 **OPERATION MATRIX**
-#### 💻 [Your project3Name] 💻
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abionit&repo=[Your project3Name]&theme=synthwave&bg_color=0d1117&border_color=00ff00&title_color=ff4444&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=10" width="60%">
-</div>
-
-```bash
-┌─[TOP_SECRET]─[OPERATION_MATRIX]
-└──╼ $ cat mission_brief.txt
-THREAT LEVEL: ████████████ MAXIMUM
-ENCRYPTION: NEURAL_LINK
-STATUS: ACCESSING THE MATRIX
-CLEARANCE: EYES ONLY
-```
-
-*[Your project3Description]*
-
-[![ENTER MATRIX](https://img.shields.io/badge/🌐_ENTER_MATRIX-00ff00?style=for-the-badge&logo=matrix&logoColor=black)]([Your project3Link])
-
-</td>
-</tr>
-</table>
+### 🔹 Security Environments & Distributions
+- **Kali Linux**, **Parrot Security OS**, **BackTrack**, **Metasploitable**, **Security Onion**, **Burp Professional**, **Knoppix STD**, **ELSA**
 
 ---
 
-<div align="center">
+## 🧾 Certifications
 
-## 📊 SYSTEM DIAGNOSTICS - NEURAL ANALYTICS 📊
-
-```
-🔥 RUNNING DEEP SYSTEM SCAN...
-⚡ ANALYZING NEURAL PATTERNS...
-💾 GENERATING HACKER METRICS...
-```
-
-![Activity Matrix](https://github-readme-activity-graph.vercel.app/graph?username=Abionit&bg_color=0d1117&color=ff0080&line=00ffff&point=ffffff&area=true&hide_border=true&theme=synthwave)
-
-<table>
-<tr>
-<td align="center">
-
-![Hacker Stats](https://github-readme-stats.vercel.app/api?username=Abionit&show_icons=true&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=15)
-
-</td>
-<td align="center">
-
-![Code Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abionit&theme=synthwave&background=0d1117&border=00ffff&stroke=ff0080&ring=00ffff&fire=ff0080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=ffffff&hide_border=true&border_radius=15)
-
-</td>
-</tr>
-</table>
-
-### 🔥 **NEURAL NETWORK STATUS** 🔥
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🖥️  TERMINAL METRICS                                       │
-├─────────────────────────────────────────────────────────────┤
-│  ⚡ ACTIVE CONNECTIONS: [VISITOR_COUNT]                     │
-│  💾 REPOSITORIES HACKED: [REPO_COUNT]                      │
-│  🔥 COMMITS PUSHED: [COMMIT_COUNT]                         │
-│  🌐 NEURAL UPTIME: [STREAK_DAYS] DAYS                      │
-│  🛡️ SECURITY BREACHES: 0 (UNHACKABLE)                     │
-└─────────────────────────────────────────────────────────────┘
-```
-
-![Digital Trophies](https://github-profile-trophy.vercel.app/?username=Abionit&theme=synthwave&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&border_color=ff0080&title_color=00ffff)
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,25:ff0080,50:00ffff,75:ff0080,100:00ffff&height=150&section=footer&text=⚡%20HACK%20THE%20PLANET%20⚡&fontSize=28&fontColor=ffffff&animation=blinking&fontAlignY=75" alt="Cyberpunk Footer" />
-
-## 🌐 ESTABLISH SECURE CONNECTION 🌐
-
-*Choose your preferred communication protocol:*
-
-<table align="center">
-<tr>
-<td align="center">
-
-[![LinkedIn Terminal](https://img.shields.io/badge/💼_LINKEDIN_TERMINAL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](miguel-angel-torres-mercado-3b7bb8290)
-
-</td>
-<td align="center">
-
-[![Twitter Feed](https://img.shields.io/badge/🐦_TWITTER_FEED-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=001a33)]([Your twitter])
-
-</td>
-<td align="center">
-
-[![Web Portal](https://img.shields.io/badge/🌐_WEB_PORTAL-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a3300)]([Your website])
-
-</td>
-</tr>
-</table>
-
----
-
-### 💾 **CONNECTION LOG** 💾
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Abionit/count.svg?color=ff0080&style=for-the-badge&background=0d1117" alt="Terminal Sessions" />
-</p>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                 │
-│  ⚡ "Welcome to the underground, fellow hacker.                                 │
-│     You've just connected to a secure terminal.                                │
-│     All communications are encrypted and untraceable.                          │
-│     Remember: Information wants to be free.                                    │
-│     Stay anonymous. Stay vigilant. Hack the planet." ⚡                        │
-│                                                                                 │
-│  💾 System Administrator: Miguel Torres                                             │
-│  🔥 Terminal ID: Abionit                                                  │
-│  🌐 Last Login: [TIMESTAMP_NOW]                                               │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<sub>*🔐 This terminal session is secured with quantum encryption. All data transmissions are protected by advanced cybersecurity protocols. 🔐*</sub>
-
-![Terminal End](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-
-</div>
+| Certification | Status |
+|---------------|--------|
+| 🏆 eJPT – eLearnSecurity Junior Penetration Tester | ✅ |
+| ⚔️ eWPTX – Web Application Penetration Tester eXtreme | ✅ |
+| 🎓 Google Professional Certificate in Cybersecurity | ✅ |
+| 💣 SANS GXPN – Exploit Researcher & Advanced Penetration Tester | ⏳ In Progress |
+| 💻 Talento Tech Colombia – Cybersecurity Course | ✅ |
