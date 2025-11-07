@@ -1,6 +1,6 @@
 # 🛡️ Miguel Ángel Torres Mercado
 
-**Offensive Cybersecurity Specialist | Pentester & Ethical Hacker**
+**Offensive Cybersecurity Specialist | Pentester & Ethical Hacker**  
 
 📍 Cartagena, Colombia  
 📧 miguelangeltorresmercado58@gmail.com  
@@ -8,31 +8,31 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy especialista en **ciberseguridad ofensiva** y estudiante de **Ingeniería de Sistemas**, con experiencia en **penetration testing, análisis de vulnerabilidades, red teaming y automatización con Python y Bash**.  
-Apasionado por el hacking ético, el análisis forense digital y el desarrollo de herramientas de seguridad.
+I am a specialist in **offensive cybersecurity** and a **Systems Engineering** student with experience in **penetration testing, vulnerability assessment, red teaming, and automation with Python and Bash**.  
+Passionate about ethical hacking, digital forensics, and security tool development.
 
 ---
 
-## 🧰 Habilidades Técnicas
+## 🧰 Technical Skills
 
 ### 🔹 Pentesting & Red Team
-- OWASP Top 10, explotación de vulnerabilidades, privilege escalation  
-- Web, mobile y network penetration testing  
-- Simulación de ataques: MITM, phishing, Active Directory, CVEs  
+- OWASP Top 10, vulnerability exploitation, privilege escalation  
+- Web, mobile, and network penetration testing  
+- Attack simulations: MITM, phishing, Active Directory attacks, CVEs  
 
-### 🔹 Herramientas Avanzadas de Pentesting y Explotación
+### 🔹 Advanced Pentesting & Exploitation Tools
 
 #### 🕸 Web Application Pentesting
 - **Burp Suite**: Proxy, Repeater, Intruder, Scanner, Collaborator, Decoder  
-  Extensiones avanzadas: Param Miner, HTTP Request Smuggler, DOM Invader, SAML Raider, Agartha, Turbo Intruder, JWT Editor, Server-Side Prototype Pollution Scanner, Java Deserialization Scanner, Hackvertor, Logger++, Burp Bounty Pro, Taborator  
+  Advanced extensions: Param Miner, HTTP Request Smuggler, DOM Invader, SAML Raider, Agartha, Turbo Intruder, JWT Editor, Server-Side Prototype Pollution Scanner, Java Deserialization Scanner, Hackvertor, Logger++, Burp Bounty Pro, Taborator  
 - **OWASP ZAP**, **SQLMap**, **WPScan**, **ffuf (fuff)**, **Feroxbuster**, **Kiterunner**, **BatchQL**, **GraphQLmap**, **GraphQL Voyager**, **curl**, **Acunetix**
 
 #### 🖥️ Network & System Exploitation
 - **Metasploit**, **Cobalt Strike**, **Empire**, **Mimikatz**, **John the Ripper**, **Hydra**, **CrackMapExec**, **Impacket**, **Responder**, **PowerSploit**, **Turbo Intruder**, **Setoolkit (SET)**
 
-#### 🌐 Reconocimiento & OSINT
+#### 🌐 Recon & OSINT
 - **Shodan**, **TheHarvester**, **Maltego**, **Recon-ng**, **Google Dorking**, **WHOIS**, **Wappalyzer**, **BuiltWith**  
 - Subdomain enumeration: **Amass**, **Subfinder**, **Sublist3r**, **DNSRecon**, **DNSdumpster**, **Knock (Knockpy)**, **SubBrute**, **AltDNS**, **Fierce**, **crt.sh (SET)**, **Wback URL**, **Sherlock**, **KXSS**, **ExcSOR**, **Olge (Tabor)**, **Ignorant**
 
@@ -41,25 +41,25 @@ Apasionado por el hacking ético, el análisis forense digital y el desarrollo d
 
 ---
 
-### 🔹 Programación & Automatización
-- **Python**, **Bash**, **C++**, **PowerShell (básico)**  
-- Automatización de escaneo, fuzzing, explotación y reporting.
+### 🔹 Programming & Automation
+- **Python**, **Bash**, **C++**, **PowerShell (basic)**  
+- Automation of scanning, fuzzing, exploitation, and reporting.
 
 ### 🔹 Digital Forensics & Incident Response
 - **Volatility**, **Autopsy**, **FTK Imager**  
-- Análisis de memoria RAM, disco, logs y extracción de evidencia.
+- Analysis of RAM, disks, logs, and evidence extraction.
 
-### 🔹 Entornos y Distribuciones de Seguridad
-- **Kali Linux**, **Parrot Security OS**, **BackTrack**, **Metasploitable**, **Security Onion**, **Burp Profesional**, **Knoppix STD**, **ELSA**
+### 🔹 Security Environments & Distributions
+- **Kali Linux**, **Parrot Security OS**, **BackTrack**, **Metasploitable**, **Security Onion**, **Burp Professional**, **Knoppix STD**, **ELSA**
 
 ---
 
-## 🧾 Certificaciones
+## 🧾 Certifications
 
-| Certificación | Estado |
+| Certification | Status |
 |---------------|--------|
-| 🏆 eJPT – eLearnSecurity Junior Penetration Tester | ✅ |
-| ⚔️ eWPTX – Web Application Penetration Tester eXtreme | ✅ |
+| 🏆 eJPT – eLearnSecurity Junior Penetration Tester |⏳ In Progress |
+| ⚔️ eWPTX – Web Application Penetration Tester eXtreme |⏳ In Progress |
 | 🎓 Google Professional Certificate in Cybersecurity | ✅ |
-| 💣 SANS GXPN – Exploit Researcher & Advanced Penetration Tester | ⏳ En progreso |
-| 💻 Talento Tech Colombia – Curso de Ciberseguridad | ✅ |
+| 💣 SANS GXPN – Exploit Researcher & Advanced Penetration Tester | ⏳ In Progress |
+| 💻 Talento Tech Colombia – Cybersecurity Course | ✅ |
