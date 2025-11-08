@@ -73,16 +73,11 @@ I'm an **Offensive Cybersecurity Specialist** and Systems Engineering student fr
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelangeltorresmercado58&show_icons=true&theme=merko)
 
 ---
 ## 📚 Notable Projects
 
 - 🧾 [**Labs Write-Ups**](https://github.com/Abionit/writeups/) – Step-by-step walkthroughs of labs (PortSwigger / HTB / CTFs) stored in this repository.  
-- 🌐 [**Pentesting Automation Scripts**](https://github.com/miguelangeltorresmercado58/pentest-scripts) – Python & Bash tools for scanning, fuzzing, and exploitation.  
-- 📘 [**CTF Challenges & Solutions**](https://github.com/miguelangeltorresmercado58/ctf-writeups) – Capture The Flag challenges and detailed write-ups.  
 
 ---
 
@@ -102,7 +97,7 @@ I'm an **Offensive Cybersecurity Specialist** and Systems Engineering student fr
 - 💼 **LinkedIn:** [Miguel Ángel Torres Mercado](https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290)  
 - 📧 **Email:** miguelangeltorresmercado58@gmail.com  
 - 🐙 **GitHub:** [miguelangeltorresmercado58](https://github.com/miguelangeltorresmercado58)  
-- 🌍 **Portfolio:** *(por crear, puedes enlazarlo luego)*  
+-
 
 ---
 
