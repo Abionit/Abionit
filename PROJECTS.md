@@ -1,34 +1,42 @@
 # Projects
 
-This page is the fastest way to review the work that best represents my portfolio.
+This page highlights the work that best represents my portfolio across cybersecurity, SOC operations, data analysis, and data engineering with SQL and Python.
 
-I keep this portfolio focused on projects that are technically reviewable, aligned with my target roles across SOC, security analytics, data analysis, and entry-level data engineering, and safe to share publicly.
+## Portfolio Focus
+
+- SOC operations, detections, and triage workflow
+- Security analytics and operational reporting
+- Data analysis with SQL, Python, KPIs, and dashboards
+- Data engineering foundations through ingestion, transformation, and reusable query layers
 
 ## Featured Public Project
 
 ### SOC Home Lab v2
 
-- Portfolio entry: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
-- Focus: SOC detection, triage workflow, SQL-backed security analytics, and operational reporting
+- Portfolio branch: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
 - Stack: Python, SQL, SQLite, Streamlit
+- Focus: detection pipeline, alert enrichment, SQL analytics, and dashboard reporting
 - What it demonstrates:
-  - simulated security telemetry
-  - rule-based detections
-  - enriched alerts with analyst context
-  - KPI exports and SQL reporting
-  - dashboard presentation for backlog, severity, SLA, and triage timing
-  - practical crossover between security operations and data analysis
+  - simulated security telemetry generation
+  - rule-based detection logic
+  - alert enrichment with triage and operational context
+  - KPI design, SQL reporting, and dashboard communication
+  - practical crossover between SOC operations, data analysis, and analytics-oriented thinking
 - Best entry points:
   - English README: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/README.en.md
   - Evidence folder: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2/evidence/v2
   - SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
   - Sample report: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/output/alerts_report.md
 
-### Why this project matters
+### Why it stands out
 
-This is the strongest public project in my portfolio because it combines SOC workflow thinking, alert enrichment, SQL reporting, dashboard communication, and technical documentation in one reviewable repository.
+SOC Home Lab v2 is the strongest public proof of my hybrid profile.
 
-It is also the clearest example of the hybrid profile I am building across cybersecurity, security operations, data analysis, and data engineering foundations.
+It shows that I can move from raw event data to detections, structured outputs, operational metrics, SQL analysis, and analyst-facing reporting.
+
+For cybersecurity roles, it demonstrates alert logic, triage thinking, and security context.
+
+For data-oriented roles, it demonstrates SQL, reporting structure, metric design, and dashboard presentation.
 
 ## Public Security Analysis Repository
 
@@ -37,11 +45,11 @@ It is also the clearest example of the hybrid profile I am building across cyber
 - Repo: https://github.com/Abionit/writeups
 - Focus: structured labs, security analysis, and technical write-ups
 - What it demonstrates:
-  - methodology and attack-surface thinking
+  - attack-surface and methodology thinking
   - vulnerability analysis workflow
-  - clear documentation and remediation-oriented communication
+  - clear technical communication and remediation-oriented reporting
 
-This repository helps show how I think through technical security problems and document them clearly.
+This repository helps show how I analyze security problems and document them clearly.
 
 ## Selected Product Work
 
@@ -50,20 +58,18 @@ This repository helps show how I think through technical security problems and d
 - Visibility: selected public summary only
 - Focus: phishing protection and security-oriented product building
 - What it demonstrates:
-  - product thinking applied to cybersecurity
+  - product execution applied to cybersecurity
   - practical web security mindset
   - ability to design and build security-focused solutions
 
-I keep the public presentation limited to avoid exposing internal architecture while the project continues to evolve.
+The public presentation is intentionally limited to avoid exposing internal architecture while the project continues to evolve.
 
-## Portfolio Direction
+## Current Build Direction
 
-I am continuing to build public portfolio material in these areas:
+I am continuing to expand this portfolio with work in:
 
-- SOC and security operations
-- security analytics with SQL
+- security analytics
+- SOC reporting and detection engineering
 - data analysis with SQL and Python
-- entry-level data engineering foundations
-- Python automation
-- dashboards and reporting for security workflows
-- curated product and lab work
+- data engineering foundations such as ingestion, transformation, and reporting pipelines
+- Python automation and dashboarding
