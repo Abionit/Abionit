@@ -1,36 +1,66 @@
 # Projects
 
-This page is the entry point for the public projects I want recruiters, hiring managers, and technical reviewers to open first.
+This page is the fastest way to review the work that best represents my portfolio.
 
-## Featured project
+I keep this portfolio focused on projects that are technically reviewable, aligned with my target roles, and safe to share publicly.
+
+## Featured Public Project
 
 ### SOC Home Lab v2
 
-- Repo: https://github.com/Abionit/soc-home-lab
+- Portfolio entry: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
 - Focus: SOC detection, triage workflow, and SQL-backed security analytics
-- Stack: Python, Pandas, SQLite, SQL, Streamlit
-- Current public release: `v2`
-- What it shows: simulated telemetry, rule-based detections, enriched alerts, KPI reporting, operational dashboarding, and portfolio-ready documentation
-- Start here: https://github.com/Abionit/soc-home-lab/blob/main/README.md
-- Version guide: https://github.com/Abionit/soc-home-lab/blob/main/CHANGELOG.md
-- English documentation: https://github.com/Abionit/soc-home-lab/blob/main/README.en.md
-- Spanish documentation: https://github.com/Abionit/soc-home-lab/blob/main/README.es.md
-- Evidence workflow: https://github.com/Abionit/soc-home-lab/blob/main/evidence/v2/README.md
-- Detection logic: https://github.com/Abionit/soc-home-lab/blob/main/src/detect_alerts.py
-- SQL queries: https://github.com/Abionit/soc-home-lab/blob/main/sql/portfolio_queries.sql
+- Stack: Python, SQL, SQLite, Streamlit
+- What it demonstrates:
+  - simulated security telemetry
+  - rule-based detections
+  - enriched alerts with analyst context
+  - KPI exports and SQL reporting
+  - dashboard presentation for backlog, severity, SLA, and triage timing
+- Best entry points:
+  - English README: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/README.en.md
+  - Evidence folder: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2/evidence/v2
+  - SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
+  - Sample report: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/output/alerts_report.md
 
 ### Why this project matters
 
-`v1` was the initial compact SOC demo.
+This is the strongest public project in my portfolio because it combines SOC workflow thinking, alert enrichment, SQL reporting, dashboard communication, and technical documentation in one reviewable repository.
 
-`v2` is the stronger recruiter-facing version because it combines detection logic, analyst workflow, SQL reporting, dashboard presentation, and clearer technical documentation in one reviewable repository.
+It is the clearest example of the hybrid profile I am building across cybersecurity, security operations, and data analytics.
 
-## What will be added next
+## Public Security Analysis Repository
 
-I will keep expanding this page with projects in these areas:
+### Labs Write-Ups
 
-- data analytics
-- SOC and detection engineering
-- cloud security
-- security telemetry pipelines
-- analyst automation
+- Repo: https://github.com/Abionit/writeups
+- Focus: structured labs, security analysis, and technical write-ups
+- What it demonstrates:
+  - methodology and attack-surface thinking
+  - vulnerability analysis workflow
+  - clear documentation and remediation-oriented communication
+
+This repository helps show how I think through technical security problems and document them clearly.
+
+## Selected Product Work
+
+### PhishProtection.tech
+
+- Visibility: selected public summary only
+- Focus: phishing protection and security-oriented product building
+- What it demonstrates:
+  - product thinking applied to cybersecurity
+  - practical web security mindset
+  - ability to design and build security-focused solutions
+
+I keep the public presentation limited to avoid exposing internal architecture while the project continues to evolve.
+
+## Portfolio Direction
+
+I am continuing to build public portfolio material in these areas:
+
+- SOC and security operations
+- security analytics with SQL
+- Python automation
+- dashboards and reporting for security workflows
+- curated product and lab work
