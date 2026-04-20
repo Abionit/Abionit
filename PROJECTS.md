@@ -2,14 +2,14 @@
 
 This page is the fastest way to review the work that best represents my portfolio.
 
-I keep this portfolio focused on projects that are technically reviewable, aligned with my target roles, and safe to share publicly.
+I keep this portfolio focused on projects that are technically reviewable, aligned with my target roles across SOC, security analytics, data analysis, and entry-level data engineering, and safe to share publicly.
 
 ## Featured Public Project
 
 ### SOC Home Lab v2
 
 - Portfolio entry: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
-- Focus: SOC detection, triage workflow, and SQL-backed security analytics
+- Focus: SOC detection, triage workflow, SQL-backed security analytics, and operational reporting
 - Stack: Python, SQL, SQLite, Streamlit
 - What it demonstrates:
   - simulated security telemetry
@@ -17,6 +17,7 @@ I keep this portfolio focused on projects that are technically reviewable, align
   - enriched alerts with analyst context
   - KPI exports and SQL reporting
   - dashboard presentation for backlog, severity, SLA, and triage timing
+  - practical crossover between security operations and data analysis
 - Best entry points:
   - English README: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/README.en.md
   - Evidence folder: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2/evidence/v2
@@ -27,7 +28,7 @@ I keep this portfolio focused on projects that are technically reviewable, align
 
 This is the strongest public project in my portfolio because it combines SOC workflow thinking, alert enrichment, SQL reporting, dashboard communication, and technical documentation in one reviewable repository.
 
-It is the clearest example of the hybrid profile I am building across cybersecurity, security operations, and data analytics.
+It is also the clearest example of the hybrid profile I am building across cybersecurity, security operations, data analysis, and data engineering foundations.
 
 ## Public Security Analysis Repository
 
@@ -61,6 +62,8 @@ I am continuing to build public portfolio material in these areas:
 
 - SOC and security operations
 - security analytics with SQL
+- data analysis with SQL and Python
+- entry-level data engineering foundations
 - Python automation
 - dashboards and reporting for security workflows
 - curated product and lab work
