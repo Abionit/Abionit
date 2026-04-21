@@ -33,7 +33,7 @@ End-to-end analytics project for a simulated subscription business.
 
 Security analytics project that simulates a small SOC detection and reporting workflow.
 
-- Repository: https://github.com/Abionit/soc-home-lab
+- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
 - Stack: Python, SQL, SQLite, Streamlit
 - Focus: simulated telemetry, detection rules, alert enrichment, triage metrics, and SQL reporting
 - Demonstrates: operational analysis, security context, metric design, and dashboard presentation
