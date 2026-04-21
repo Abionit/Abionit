@@ -1,75 +1,88 @@
 # Projects
 
-This page highlights the work that best represents my portfolio across cybersecurity, SOC operations, data analysis, and data engineering with SQL and Python.
+This page highlights the projects that best represent my current direction toward entry-level Data Analyst, BI Analyst, Reporting Analyst, and analytics-oriented roles.
 
 ## Portfolio Focus
 
-- SOC operations, detections, and triage workflow
-- Security analytics and operational reporting
-- Data analysis with SQL, Python, KPIs, and dashboards
-- Data engineering foundations through ingestion, transformation, and reusable query layers
+- SQL and Python for practical analysis
+- KPI reporting and business metrics
+- Dashboarding and clear communication
+- Reproducible workflows with documented outputs
+- Security analytics as an additional operational strength
 
-## Featured Public Project
+## Featured Project
+
+### Subscription Analytics Lab
+
+- Repository: https://github.com/Abionit/subscription-analytics-lab
+- Stack: Python, SQL, SQLite, Streamlit
+- Focus: revenue analytics, retention, churn risk, cohort analysis, and KPI reporting
+
+What it demonstrates:
+
+- customer-month analytical modeling
+- SQL-backed reporting and reusable query assets
+- KPI design for MRR, ARPA, churn, and net revenue retention
+- churn risk scoring using usage, billing, support, and CSAT signals
+- dashboard and report-ready communication
+
+Best entry points:
+
+- Main README: https://github.com/Abionit/subscription-analytics-lab
+- English documentation: https://github.com/Abionit/subscription-analytics-lab/blob/main/README.en.md
+- SQL queries: https://github.com/Abionit/subscription-analytics-lab/blob/main/sql/portfolio_queries.sql
+- Sample report: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/subscription_analytics_report.md
+
+Why it stands out:
+
+This project shows the full path from data generation to analytical outputs. It is built around a business question, not just visualizations, and it demonstrates SQL, Python, metrics, reporting, and documentation in one workflow.
+
+## Additional Portfolio Project
 
 ### SOC Home Lab v2
 
-- Portfolio branch: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
+- Repository: https://github.com/Abionit/soc-home-lab
 - Stack: Python, SQL, SQLite, Streamlit
-- Focus: detection pipeline, alert enrichment, SQL analytics, and dashboard reporting
-- What it demonstrates:
-  - simulated security telemetry generation
-  - rule-based detection logic
-  - alert enrichment with triage and operational context
-  - KPI design, SQL reporting, and dashboard communication
-  - practical crossover between SOC operations, data analysis, and analytics-oriented thinking
-- Best entry points:
-  - English README: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/README.en.md
-  - Evidence folder: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2/evidence/v2
-  - SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
-  - Sample report: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/output/alerts_report.md
+- Focus: simulated SOC telemetry, detection rules, alert enrichment, triage metrics, and reporting
 
-### Why it stands out
+What it demonstrates:
 
-SOC Home Lab v2 is the strongest public proof of my hybrid profile.
+- simulated event generation
+- rule-based detection logic
+- alert enrichment with operational context
+- KPI design and SQL reporting
+- crossover between security operations and data analysis
 
-It shows that I can move from raw event data to detections, structured outputs, operational metrics, SQL analysis, and analyst-facing reporting.
+Best entry points:
 
-For cybersecurity roles, it demonstrates alert logic, triage thinking, and security context.
+- Main README: https://github.com/Abionit/soc-home-lab
+- English documentation: https://github.com/Abionit/soc-home-lab/blob/main/README.en.md
+- SQL queries: https://github.com/Abionit/soc-home-lab/blob/main/sql/portfolio_queries.sql
+- Sample report: https://github.com/Abionit/soc-home-lab/blob/main/output/alerts_report.md
 
-For data-oriented roles, it demonstrates SQL, reporting structure, metric design, and dashboard presentation.
+Why it stands out:
 
-## Public Security Analysis Repository
+This project adds a security analytics angle to my profile. It shows that I can work with operational data, detection outputs, triage metrics, and dashboard reporting.
+
+## Technical Writing
 
 ### Labs Write-Ups
 
-- Repo: https://github.com/Abionit/writeups
-- Focus: structured labs, security analysis, and technical write-ups
-- What it demonstrates:
-  - attack-surface and methodology thinking
-  - vulnerability analysis workflow
-  - clear technical communication and remediation-oriented reporting
+- Repository: https://github.com/Abionit/writeups
+- Focus: structured lab work, technical analysis, and documentation
 
-This repository helps show how I analyze security problems and document them clearly.
+What it demonstrates:
 
-## Selected Product Work
-
-### PhishProtection.tech
-
-- Visibility: selected public summary only
-- Focus: phishing protection and security-oriented product building
-- What it demonstrates:
-  - product execution applied to cybersecurity
-  - practical web security mindset
-  - ability to design and build security-focused solutions
-
-The public presentation is intentionally limited to avoid exposing internal architecture while the project continues to evolve.
+- technical communication
+- methodology-based thinking
+- clear documentation of analysis steps
 
 ## Current Build Direction
 
-I am continuing to expand this portfolio with work in:
+I am continuing to strengthen this portfolio around:
 
-- security analytics
-- SOC reporting and detection engineering
-- data analysis with SQL and Python
-- data engineering foundations such as ingestion, transformation, and reporting pipelines
-- Python automation and dashboarding
+- SQL query practice and business questions
+- Python data processing
+- KPI reporting
+- dashboard communication
+- project documentation that can be reviewed quickly by recruiters and technical interviewers
