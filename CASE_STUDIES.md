@@ -1,12 +1,18 @@
 # Portfolio Case Studies
 
-Short case studies for the projects that best represent my current Data Analyst portfolio.
+These case studies represent the strongest portfolio evidence for entry-level Data Analyst, BI Analyst, Reporting Analyst, and analytics-oriented roles.
 
 ## Case Study 1: Subscription Analytics Lab
+
+![Subscription Analytics Lab case study](assets/case-studies/subscription-analytics-lab.svg)
 
 ### Business Question
 
 Which signals help identify revenue risk, retention pressure, and customer health issues early in a subscription business?
+
+### Analytical Approach
+
+The project builds a practical analytics workflow around synthetic subscription data. It starts with customer, billing, usage, and support data, then creates a customer-month analytical layer for recurring revenue and retention analysis.
 
 ### Tools
 
@@ -47,9 +53,15 @@ This project demonstrates the ability to move from raw data to a structured anal
 
 ## Case Study 2: SOC Home Lab v2
 
+![SOC Home Lab v2 case study](assets/case-studies/soc-home-lab-v2.svg)
+
 ### Business Question
 
 How can a small SOC workflow turn simulated telemetry into enriched alerts, operational metrics, and reusable reports?
+
+### Analytical Approach
+
+The project uses security telemetry as an operational analytics problem. Events are generated, detection rules produce alerts, and the results are enriched with severity, ownership, status, timing, and SLA context before being reviewed through SQL and a dashboard.
 
 ### Tools
 
