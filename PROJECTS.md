@@ -10,6 +10,12 @@ This page highlights the projects that best represent my current direction towar
 - Reproducible workflows with documented outputs
 - Security analytics as an additional operational strength
 
+## Best Starting Point
+
+- Visual case studies: [CASE_STUDIES.md](CASE_STUDIES.md)
+- GitHub profile: https://github.com/Abionit
+- LinkedIn: https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290
+
 ## Featured Project
 
 ### Subscription Analytics Lab
