@@ -1,3 +1,5 @@
+![Data Analytics Portfolio](assets/profile/portfolio-header.svg)
+
 # Miguel Angel Torres Mercado
 
 Entry-Level Data Analyst focused on SQL, Python, KPI reporting, dashboards, and business-focused analytics.
@@ -12,9 +14,11 @@ I am a Systems Engineering student from Cartagena, Colombia, building a portfoli
 - Customer behavior, retention, churn risk, and operational analytics
 - Clear documentation for technical and non-technical review
 
-## Featured Portfolio Work
+## Featured Case Studies
 
 ### Subscription Analytics Lab
+
+![Subscription Analytics Lab case study](assets/case-studies/subscription-analytics-lab.svg)
 
 End-to-end analytics project for a simulated subscription business.
 
@@ -24,6 +28,8 @@ End-to-end analytics project for a simulated subscription business.
 - Demonstrates: analytical modeling, reusable SQL, reporting outputs, dashboarding, and business communication
 
 ### SOC Home Lab v2
+
+![SOC Home Lab v2 case study](assets/case-studies/soc-home-lab-v2.svg)
 
 Security analytics project that simulates a small SOC detection and reporting workflow.
 
@@ -41,8 +47,8 @@ Technical write-ups focused on structured analysis and documentation.
 
 ## Portfolio Navigation
 
-- Project overview: [PROJECTS.md](PROJECTS.md)
 - Case studies: [CASE_STUDIES.md](CASE_STUDIES.md)
+- Project overview: [PROJECTS.md](PROJECTS.md)
 - LinkedIn: https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290
 
 ## Technical Skills
