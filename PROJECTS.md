@@ -47,7 +47,7 @@ This project shows the full path from data generation to analytical outputs. It 
 
 ### SOC Home Lab v2
 
-- Repository: https://github.com/Abionit/soc-home-lab
+- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
 - Stack: Python, SQL, SQLite, Streamlit
 - Focus: simulated SOC telemetry, detection rules, alert enrichment, triage metrics, and reporting
 
@@ -61,10 +61,10 @@ What it demonstrates:
 
 Best entry points:
 
-- Main README: https://github.com/Abionit/soc-home-lab
-- English documentation: https://github.com/Abionit/soc-home-lab/blob/main/README.en.md
-- SQL queries: https://github.com/Abionit/soc-home-lab/blob/main/sql/portfolio_queries.sql
-- Sample report: https://github.com/Abionit/soc-home-lab/blob/main/output/alerts_report.md
+- Project branch: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
+- English documentation: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/README.en.md
+- SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
+- Sample report: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/output/alerts_report.md
 
 Why it stands out:
 
