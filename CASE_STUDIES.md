@@ -96,9 +96,9 @@ This project shows how data analysis can support security operations. It connect
 
 ### Links
 
-- Repository: https://github.com/Abionit/soc-home-lab
-- SQL queries: https://github.com/Abionit/soc-home-lab/blob/main/sql/portfolio_queries.sql
-- Sample report: https://github.com/Abionit/soc-home-lab/blob/main/output/alerts_report.md
+- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
+- SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
+- Sample report: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/output/alerts_report.md
 
 ## Portfolio Positioning
 
