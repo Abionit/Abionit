@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Wazuh SOC Detection Engineering Lab</title>
+  <desc id="desc">Visual case study for a Wazuh SOC detection engineering lab with custom rules, MITRE mapping, triage, and alert analytics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="55%" stop-color="#0c2636"/>
+      <stop offset="100%" stop-color="#133d3a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#37f0a2"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .eyebrow { font: 800 16px 'Segoe UI', Arial, sans-serif; fill: #37f0a2; letter-spacing: 2px; }
+      .title { font: 850 47px 'Segoe UI', Arial, sans-serif; fill: #f7fbff; letter-spacing: -1px; }
+      .subtitle { font: 500 22px 'Segoe UI', Arial, sans-serif; fill: #bfd1dc; }
+      .section { font: 800 24px 'Segoe UI', Arial, sans-serif; fill: #f7fbff; }
+      .label { font: 700 15px 'Segoe UI', Arial, sans-serif; fill: #9fb4c6; }
+      .metric { font: 850 34px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+      .body { font: 560 19px 'Segoe UI', Arial, sans-serif; fill: #dce8ef; }
+      .chip { font: 800 15px 'Segoe UI', Arial, sans-serif; fill: #06121e; }
+    </style>
+  </defs>
+  <rect width="1280" height="720" rx="34" fill="url(#bg)"/>
+  <circle cx="1110" cy="110" r="210" fill="#37f0a2" opacity="0.10"/>
+  <circle cx="150" cy="620" r="180" fill="#00d4ff" opacity="0.10"/>
+  <path d="M720 126 C840 70, 956 112, 1030 178 C1100 242, 1190 230, 1248 304" fill="none" stroke="#37f0a2" stroke-width="3" opacity="0.22"/>
+
+  <g transform="translate(70 64)">
+    <text class="eyebrow" x="0" y="0">FLAGSHIP SECURITY ANALYTICS PROJECT</text>
+    <text class="title" x="0" y="62">Wazuh SOC Detection Engineering Lab</text>
+    <text class="subtitle" x="0" y="102">Custom Wazuh detections, MITRE mapping, triage workflow, and alert analytics reporting.</text>
+  </g>
+
+  <g transform="translate(70 205)" filter="url(#shadow)">
+    <rect x="0" y="0" width="180" height="118" rx="24" fill="#111f2e" stroke="#25495a"/>
+    <text class="label" x="24" y="36">DETECTIONS</text>
+    <text class="metric" x="24" y="82">9</text>
+  </g>
+  <g transform="translate(274 205)" filter="url(#shadow)">
+    <rect x="0" y="0" width="190" height="118" rx="24" fill="#111f2e" stroke="#25495a"/>
+    <text class="label" x="24" y="36">CUSTOM RULES</text>
+    <text class="metric" x="24" y="82">100100+</text>
+  </g>
+  <g transform="translate(488 205)" filter="url(#shadow)">
+    <rect x="0" y="0" width="190" height="118" rx="24" fill="#111f2e" stroke="#25495a"/>
+    <text class="label" x="24" y="36">MITRE TECHNIQUES</text>
+    <text class="metric" x="24" y="82">8</text>
+  </g>
+  <g transform="translate(702 205)" filter="url(#shadow)">
+    <rect x="0" y="0" width="170" height="118" rx="24" fill="#111f2e" stroke="#25495a"/>
+    <text class="label" x="24" y="36">ALERTS</text>
+    <text class="metric" x="24" y="82">9</text>
+  </g>
+  <g transform="translate(896 205)" filter="url(#shadow)">
+    <rect x="0" y="0" width="150" height="118" rx="24" fill="#111f2e" stroke="#25495a"/>
+    <text class="label" x="24" y="36">CRITICAL</text>
+    <text class="metric" x="24" y="82">2</text>
+  </g>
+  <g transform="translate(1070 205)" filter="url(#shadow)">
+    <rect x="0" y="0" width="140" height="118" rx="24" fill="#111f2e" stroke="#25495a"/>
+    <text class="label" x="24" y="36">ACTIVE</text>
+    <text class="metric" x="24" y="82">4</text>
+  </g>
+
+  <g transform="translate(70 385)">
+    <text class="section" x="0" y="0">SOC Workflow</text>
+    <g transform="translate(0 48)">
+      <rect x="0" y="0" width="170" height="84" rx="22" fill="#00d4ff"/>
+      <text class="chip" x="45" y="35">Wazuh</text>
+      <text class="chip" x="47" y="59">stack</text>
+      <path d="M185 42 L224 42" stroke="#37f0a2" stroke-width="4" stroke-linecap="round"/>
+      <rect x="245" y="0" width="185" height="84" rx="22" fill="#ffffff"/>
+      <text class="chip" x="282" y="35">Custom</text>
+      <text class="chip" x="292" y="59">rules</text>
+      <path d="M445 42 L484 42" stroke="#37f0a2" stroke-width="4" stroke-linecap="round"/>
+      <rect x="505" y="0" width="185" height="84" rx="22" fill="#ffffff"/>
+      <text class="chip" x="550" y="35">MITRE</text>
+      <text class="chip" x="548" y="59">mapping</text>
+      <path d="M705 42 L744 42" stroke="#37f0a2" stroke-width="4" stroke-linecap="round"/>
+      <rect x="765" y="0" width="185" height="84" rx="22" fill="#ffffff"/>
+      <text class="chip" x="812" y="35">Triage</text>
+      <text class="chip" x="819" y="59">queue</text>
+      <path d="M965 42 L1004 42" stroke="#37f0a2" stroke-width="4" stroke-linecap="round"/>
+      <rect x="1025" y="0" width="185" height="84" rx="22" fill="url(#accent)"/>
+      <text class="chip" x="1074" y="35">SOC</text>
+      <text class="chip" x="1068" y="59">metrics</text>
+    </g>
+  </g>
+
+  <g transform="translate(70 580)">
+    <text class="section" x="0" y="0">What it demonstrates</text>
+    <text class="body" x="0" y="44">SIEM deployment planning, detection engineering, ATT&CK alignment, alert triage, Python reporting, and security analytics.</text>
+  </g>
+</svg>
