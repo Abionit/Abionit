@@ -6,6 +6,13 @@ Entry-Level Data Analyst focused on SQL, Python, KPI reporting, dashboards, and 
 
 I am a Systems Engineering student from Cartagena, Colombia, building a portfolio around practical data workflows: querying, cleaning, modeling, reporting, and explaining results clearly. My background in cybersecurity gives me an additional operational mindset for analyzing risk, alerts, and monitoring data.
 
+## Fast Review
+
+- Recruiter brief: [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
+- SQL evidence: [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
+- Case studies: [CASE_STUDIES.md](CASE_STUDIES.md)
+- Project overview: [PROJECTS.md](PROJECTS.md)
+
 ## Current Focus
 
 - SQL for analysis, joins, aggregation, filtering, and business questions
@@ -44,12 +51,6 @@ Technical write-ups focused on structured analysis and documentation.
 
 - Repository: https://github.com/Abionit/writeups
 - Focus: lab methodology, vulnerability analysis, and clear technical reporting
-
-## Portfolio Navigation
-
-- Case studies: [CASE_STUDIES.md](CASE_STUDIES.md)
-- Project overview: [PROJECTS.md](PROJECTS.md)
-- LinkedIn: https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290
 
 ## Technical Skills
 
