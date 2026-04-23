@@ -2,6 +2,8 @@
 
 These case studies represent the strongest portfolio evidence for entry-level Data Analyst, BI Analyst, Reporting Analyst, and analytics-oriented roles.
 
+For a focused review of SQL work, see [SQL_EVIDENCE.md](SQL_EVIDENCE.md).
+
 ## Case Study 1: Subscription Analytics Lab
 
 ![Subscription Analytics Lab case study](assets/case-studies/subscription-analytics-lab.svg)
