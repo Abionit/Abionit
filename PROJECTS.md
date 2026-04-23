@@ -12,6 +12,8 @@ This page highlights the projects that best represent my current direction towar
 
 ## Best Starting Point
 
+- Recruiter brief: [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
+- SQL evidence: [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
 - Visual case studies: [CASE_STUDIES.md](CASE_STUDIES.md)
 - GitHub profile: https://github.com/Abionit
 - LinkedIn: https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290
