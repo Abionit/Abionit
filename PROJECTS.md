@@ -1,6 +1,6 @@
 # Projects
 
-This page highlights the projects that best represent my current direction toward entry-level Data Analyst, BI Analyst, Reporting Analyst, and analytics-oriented roles.
+This page highlights the projects that best represent my current direction toward entry-level Data Analyst, BI Analyst, Reporting Analyst, security analytics, and analytics-oriented roles.
 
 ## Portfolio Focus
 
@@ -8,7 +8,7 @@ This page highlights the projects that best represent my current direction towar
 - KPI reporting and business metrics
 - Dashboarding and clear communication
 - Reproducible workflows with documented outputs
-- Security analytics as an additional operational strength
+- Security analytics, SOC metrics, and detection engineering as an additional operational strength
 
 ## Best Starting Point
 
@@ -18,7 +18,7 @@ This page highlights the projects that best represent my current direction towar
 - GitHub profile: https://github.com/Abionit
 - LinkedIn: https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290
 
-## Featured Project
+## Featured Data Analytics Project
 
 ### Subscription Analytics Lab
 
@@ -34,16 +34,29 @@ What it demonstrates:
 - churn risk scoring using usage, billing, support, and CSAT signals
 - dashboard and report-ready communication
 
+## Featured Security Analytics Project
+
+### Wazuh SOC Detection Engineering Lab
+
+- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
+- Stack: Wazuh, Docker, Python, SQLite, Streamlit
+- Focus: SIEM workflow, custom detections, MITRE ATT&CK mapping, triage, alert analytics, and SOC reporting
+
+What it demonstrates:
+
+- Wazuh deployment planning and lab runbook
+- custom detection rules with ATT&CK mapping
+- controlled event generation for validation
+- triage queue and executive SOC metrics
+- security analytics reporting with Python, CSV, Markdown, and SQLite
+
 Best entry points:
 
-- Main README: https://github.com/Abionit/subscription-analytics-lab
-- English documentation: https://github.com/Abionit/subscription-analytics-lab/blob/main/README.en.md
-- SQL queries: https://github.com/Abionit/subscription-analytics-lab/blob/main/sql/portfolio_queries.sql
-- Sample report: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/subscription_analytics_report.md
-
-Why it stands out:
-
-This project shows the full path from data generation to analytical outputs. It is built around a business question, not just visualizations, and it demonstrates SQL, Python, metrics, reporting, and documentation in one workflow.
+- Project branch: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
+- Lab README: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/README.md
+- Detection catalog: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/detections/detection_catalog.md
+- Custom Wazuh rules: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/config/wazuh/rules/local_soc_rules.xml
+- Executive report: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/output/executive_report.md
 
 ## Additional Portfolio Project
 
@@ -60,17 +73,6 @@ What it demonstrates:
 - alert enrichment with operational context
 - KPI design and SQL reporting
 - crossover between security operations and data analysis
-
-Best entry points:
-
-- Project branch: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
-- English documentation: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/README.en.md
-- SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
-- Sample report: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/output/alerts_report.md
-
-Why it stands out:
-
-This project adds a security analytics angle to my profile. It shows that I can work with operational data, detection outputs, triage metrics, and dashboard reporting.
 
 ## Technical Writing
 
@@ -93,4 +95,5 @@ I am continuing to strengthen this portfolio around:
 - Python data processing
 - KPI reporting
 - dashboard communication
+- Wazuh and SOC analytics lab work
 - project documentation that can be reviewed quickly by recruiters and technical interviewers
