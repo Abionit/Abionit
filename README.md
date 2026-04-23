@@ -19,7 +19,7 @@ I am a Systems Engineering student from Cartagena, Colombia, building a portfoli
 - Python for data processing, reproducible workflows, and analytical outputs
 - KPI reporting and dashboard communication
 - Customer behavior, retention, churn risk, and operational analytics
-- Clear documentation for technical and non-technical review
+- Security analytics, SOC metrics, detection logic, and Wazuh-based lab work
 
 ## Featured Case Studies
 
@@ -34,6 +34,17 @@ End-to-end analytics project for a simulated subscription business.
 - Focus: revenue analytics, KPI reporting, cohort retention, churn risk, and customer health monitoring
 - Demonstrates: analytical modeling, reusable SQL, reporting outputs, dashboarding, and business communication
 
+### Wazuh SOC Detection Engineering Lab
+
+![Wazuh SOC Detection Engineering Lab case study](assets/case-studies/wazuh-soc-detection-lab.svg)
+
+Flagship security analytics project built around Wazuh SIEM/XDR, custom detections, MITRE ATT&CK mapping, triage workflow, and alert reporting.
+
+- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
+- Stack: Wazuh, Docker, Python, SQLite, Streamlit
+- Focus: SOC detection engineering, custom rules, alert triage, MITRE mapping, and security analytics reporting
+- Demonstrates: SIEM workflow, detection logic, operational metrics, reporting, and technical documentation
+
 ### SOC Home Lab v2
 
 ![SOC Home Lab v2 case study](assets/case-studies/soc-home-lab-v2.svg)
@@ -45,19 +56,12 @@ Security analytics project that simulates a small SOC detection and reporting wo
 - Focus: simulated telemetry, detection rules, alert enrichment, triage metrics, and SQL reporting
 - Demonstrates: operational analysis, security context, metric design, and dashboard presentation
 
-### Labs Write-Ups
-
-Technical write-ups focused on structured analysis and documentation.
-
-- Repository: https://github.com/Abionit/writeups
-- Focus: lab methodology, vulnerability analysis, and clear technical reporting
-
 ## Technical Skills
 
 - Data: SQL, Python, pandas, SQLite
 - Reporting: KPI design, CSV/Markdown reporting, Streamlit dashboards
 - Workflow: GitHub, reproducible scripts, documentation, testing basics
-- Security context: SOC concepts, detection logic, alert triage, operational metrics
+- Security context: SOC concepts, Wazuh, detection logic, alert triage, operational metrics
 
 ## Learning Path
 
