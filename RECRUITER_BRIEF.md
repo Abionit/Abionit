@@ -10,7 +10,8 @@ Relevant role families:
 - Junior BI Analyst
 - Reporting Analyst
 - Operations Analyst
-- Security Analytics Analyst, as a secondary path
+- Security Analytics Analyst
+- Junior SOC Analyst, as a secondary path
 
 ## Professional Summary
 
@@ -24,7 +25,7 @@ My cybersecurity background adds an operational mindset: risk, alerts, monitorin
 - Use Python to generate, clean, transform, and validate analytical data.
 - Design KPIs that connect technical work to business context.
 - Communicate results through dashboards, reports, and concise documentation.
-- Work across data analytics and security analytics problems.
+- Work across data analytics, security analytics, and SOC reporting problems.
 
 ## Evidence Map
 
@@ -34,6 +35,7 @@ My cybersecurity background adds an operational mindset: risk, alerts, monitorin
 | Python workflows | Reproducible pipelines for analytics outputs and reporting | [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab) |
 | Reporting and dashboards | Streamlit dashboards, Markdown reports, CSV outputs | [CASE_STUDIES.md](CASE_STUDIES.md) |
 | Business analytics | Revenue, retention, churn risk, customer health, MRR, ARPA, NRR | [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab) |
+| Security analytics | Wazuh custom rules, MITRE mapping, alert metrics, triage queue | [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab) |
 | Operational analytics | Alert triage, severity, backlog, SLA flags, rule performance | [SOC Home Lab v2](https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2) |
 | Technical communication | Structured case studies, project documentation, lab write-ups | [PROJECTS.md](PROJECTS.md) |
 
@@ -47,6 +49,15 @@ End-to-end analytics project for a simulated subscription business.
 - Focus: revenue analytics, customer health, churn risk, cohort retention, and KPI reporting
 - Evidence: analytical pipeline, SQL queries, dashboard, reports, and exported outputs
 - Repository: https://github.com/Abionit/subscription-analytics-lab
+
+### Wazuh SOC Detection Engineering Lab
+
+Flagship security analytics project built around Wazuh SIEM/XDR.
+
+- Stack: Wazuh, Docker, Python, SQLite, Streamlit
+- Focus: custom Wazuh rules, MITRE ATT&CK mapping, controlled event generation, triage workflow, and SOC reporting
+- Evidence: detection catalog, custom rules, lab runbook, alert metrics, triage queue, and executive report
+- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
 
 ### SOC Home Lab v2
 
@@ -63,13 +74,14 @@ Security analytics project that turns simulated telemetry into enriched alerts, 
 - Python pipeline structure and reproducibility
 - How metrics connect to business or operational decisions
 - Dashboard choices and how to communicate findings clearly
-- How a data analyst mindset can improve security operations reporting
+- How a data analyst mindset can improve SOC reporting and detection review
+- Wazuh detection rules, ATT&CK mapping, alert triage, and tuning considerations
 
 ## Current Learning Focus
 
 - DataCamp SQL track, including Intermediate SQL
 - Data Analyst foundations with SQL and Python
-- Continued practice through portfolio projects and documentation
+- Continued practice through portfolio projects and technical documentation
 
 ## Contact
 
