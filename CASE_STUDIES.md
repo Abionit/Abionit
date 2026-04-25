@@ -1,8 +1,12 @@
 # Portfolio Case Studies
 
-These case studies represent the strongest portfolio evidence for entry-level Data Analyst, BI Analyst, Reporting Analyst, security analytics, and analytics-oriented roles.
+These case studies represent the strongest portfolio evidence for entry-level Data Analyst, BI Analyst, Reporting Analyst, operations analytics, and analytics-oriented roles.
 
-For a focused review of SQL work, see [SQL_EVIDENCE.md](SQL_EVIDENCE.md).
+Recommended review order:
+
+1. Start with **Subscription Analytics Lab** for business analytics, KPI reporting, retention, and churn risk.
+2. Review [SQL_EVIDENCE.md](SQL_EVIDENCE.md) for quick SQL proof of work.
+3. Review the security analytics case studies only when the role benefits from monitoring, alert operations, or SOC-related analysis.
 
 ## Case Study 1: Subscription Analytics Lab
 
@@ -83,7 +87,7 @@ The project uses Wazuh as the SIEM/XDR layer and adds custom detection rules, co
 
 ![SOC Home Lab v2 case study](assets/case-studies/soc-home-lab-v2.svg)
 
-### Business Question
+### Operational Question
 
 How can a small SOC workflow turn simulated telemetry into enriched alerts, operational metrics, and reusable reports?
 
@@ -125,4 +129,3 @@ These projects are designed to support entry-level roles involving:
 - Dashboarding
 - Operational analytics
 - Security analytics as a secondary differentiator
-- SOC analyst and junior detection engineering foundations
