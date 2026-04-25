@@ -1,24 +1,25 @@
 # Projects
 
-This page highlights the projects that best represent my current direction toward entry-level Data Analyst, BI Analyst, Reporting Analyst, security analytics, and analytics-oriented roles.
+This portfolio is optimized for entry-level Data Analyst, BI Analyst, Reporting Analyst, and Operations Analyst roles. The security projects are included as an operational analytics differentiator, not as the primary direction.
 
-## Portfolio Focus
+## Best Review Order
 
-- SQL and Python for practical analysis
-- KPI reporting and business metrics
-- Dashboarding and clear communication
-- Reproducible workflows with documented outputs
-- Security analytics, SOC metrics, and detection engineering as an additional operational strength
+1. [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
+Business analytics case study covering revenue, retention, churn risk, customer health, SQL reporting, and dashboard outputs.
 
-## Best Starting Point
+2. [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
+Fast proof of SQL work across KPI reporting, cohorts, segmentation, backlog analysis, and operational metrics.
 
-- Recruiter brief: [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
-- SQL evidence: [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
-- Visual case studies: [CASE_STUDIES.md](CASE_STUDIES.md)
-- GitHub profile: https://github.com/Abionit
-- LinkedIn: https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290
+3. [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
+Short guide to role fit, strongest evidence, and the best discussion areas for interviews.
 
-## Featured Data Analytics Project
+4. [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
+Security analytics project showing detection logic, triage reporting, custom rules, and operational review.
+
+5. [SOC Home Lab v2](https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2)
+Compact SQL and dashboard project focused on enriched alerts, operational metrics, and reusable reporting.
+
+## Primary Analytics Project
 
 ### Subscription Analytics Lab
 
@@ -26,15 +27,14 @@ This page highlights the projects that best represent my current direction towar
 - Stack: Python, SQL, SQLite, Streamlit
 - Focus: revenue analytics, retention, churn risk, cohort analysis, and KPI reporting
 
-What it demonstrates:
+Strongest evidence:
 
-- customer-month analytical modeling
-- SQL-backed reporting and reusable query assets
-- KPI design for MRR, ARPA, churn, and net revenue retention
-- churn risk scoring using usage, billing, support, and CSAT signals
-- dashboard and report-ready communication
+- SQL queries: https://github.com/Abionit/subscription-analytics-lab/blob/main/sql/portfolio_queries.sql
+- Sample report: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/subscription_analytics_report.md
+- KPI outputs: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/monthly_kpis.csv
+- Churn watchlist: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/churn_risk_watchlist.csv
 
-## Featured Security Analytics Project
+## Secondary Differentiator: Security Analytics
 
 ### Wazuh SOC Detection Engineering Lab
 
@@ -42,23 +42,12 @@ What it demonstrates:
 - Stack: Wazuh, Docker, Python, SQLite, Streamlit
 - Focus: SIEM workflow, custom detections, MITRE ATT&CK mapping, triage, alert analytics, and SOC reporting
 
-What it demonstrates:
+Strongest evidence:
 
-- Wazuh deployment planning and lab runbook
-- custom detection rules with ATT&CK mapping
-- controlled event generation for validation
-- triage queue and executive SOC metrics
-- security analytics reporting with Python, CSV, Markdown, and SQLite
-
-Best entry points:
-
-- Project branch: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
 - Lab README: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/README.md
 - Detection catalog: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/detections/detection_catalog.md
-- Custom Wazuh rules: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/config/wazuh/rules/local_soc_rules.xml
+- Custom rules: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/config/wazuh/rules/local_soc_rules.xml
 - Executive report: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/output/executive_report.md
-
-## Additional Portfolio Project
 
 ### SOC Home Lab v2
 
@@ -66,34 +55,15 @@ Best entry points:
 - Stack: Python, SQL, SQLite, Streamlit
 - Focus: simulated SOC telemetry, detection rules, alert enrichment, triage metrics, and reporting
 
-What it demonstrates:
+Strongest evidence:
 
-- simulated event generation
-- rule-based detection logic
-- alert enrichment with operational context
-- KPI design and SQL reporting
-- crossover between security operations and data analysis
+- SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
+- Sample report: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/output/alerts_report.md
+- Evidence gallery: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/evidence/v2/README.md
 
-## Technical Writing
+## Technical Communication
 
-### Labs Write-Ups
+### Write-Ups
 
 - Repository: https://github.com/Abionit/writeups
-- Focus: structured lab work, technical analysis, and documentation
-
-What it demonstrates:
-
-- technical communication
-- methodology-based thinking
-- clear documentation of analysis steps
-
-## Current Build Direction
-
-I am continuing to strengthen this portfolio around:
-
-- SQL query practice and business questions
-- Python data processing
-- KPI reporting
-- dashboard communication
-- Wazuh and SOC analytics lab work
-- project documentation that can be reviewed quickly by recruiters and technical interviewers
+- Demonstrates: clear documentation, structured analysis, and the ability to explain technical work without unnecessary complexity
