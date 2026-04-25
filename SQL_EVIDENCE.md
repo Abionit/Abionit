@@ -1,6 +1,11 @@
 # SQL Evidence
 
-This page collects SQL examples from my portfolio projects and explains what each query demonstrates. The goal is to make the analytical work easy to review without requiring a full local setup.
+This page collects representative SQL examples from my portfolio projects and explains what each query demonstrates. The goal is to make the analytical work easy to review without requiring a full local setup.
+
+Recommended review order:
+
+1. Start with the business analytics examples from Subscription Analytics Lab.
+2. Review the SOC analytics examples as secondary operational evidence.
 
 ## Source Query Files
 
