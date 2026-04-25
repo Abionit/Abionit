@@ -2,26 +2,29 @@
 
 # Miguel Angel Torres Mercado
 
-Entry-Level Data Analyst focused on SQL, Python, KPI reporting, dashboards, and business-focused analytics.
+Entry-Level Data Analyst focused on SQL, Python, KPI reporting, dashboards, and operational analytics.
 
-I am a Systems Engineering student from Cartagena, Colombia, building a portfolio around practical data workflows: querying, cleaning, modeling, reporting, and explaining results clearly. My background in cybersecurity gives me an additional operational mindset for analyzing risk, alerts, and monitoring data.
+I am a Systems Engineering student from Cartagena, Colombia, building a portfolio around practical data workflows: querying, cleaning, modeling, reporting, and explaining results clearly. My cybersecurity background is a secondary differentiator that strengthens my work with monitoring, alerts, prioritization, and evidence-based analysis.
 
-## Fast Review
+## Start Here
+
+If you only review three links, start with these:
 
 - Recruiter brief: [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
-- SQL evidence: [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
-- Case studies: [CASE_STUDIES.md](CASE_STUDIES.md)
-- Project overview: [PROJECTS.md](PROJECTS.md)
+- Primary analytics project: [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
+- SQL proof of work: [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
 
-## Current Focus
+## Role Direction
 
-- SQL for analysis, joins, aggregation, filtering, and business questions
-- Python for data processing, reproducible workflows, and analytical outputs
-- KPI reporting and dashboard communication
-- Customer behavior, retention, churn risk, and operational analytics
-- Security analytics, SOC metrics, detection logic, and Wazuh-based lab work
+This portfolio is primarily aligned to:
 
-## Featured Case Studies
+- Data Analyst
+- BI Analyst
+- Reporting Analyst
+- Operations Analyst
+- Security Analytics Analyst, as a secondary path
+
+## Featured Work
 
 ### Subscription Analytics Lab
 
@@ -29,45 +32,47 @@ I am a Systems Engineering student from Cartagena, Colombia, building a portfoli
 
 End-to-end analytics project for a simulated subscription business.
 
-- Repository: https://github.com/Abionit/subscription-analytics-lab
 - Stack: Python, SQL, SQLite, Streamlit
-- Focus: revenue analytics, KPI reporting, cohort retention, churn risk, and customer health monitoring
+- Focus: revenue analytics, KPI reporting, retention, churn risk, and customer health monitoring
+- Review path:
+  - Repository: https://github.com/Abionit/subscription-analytics-lab
+  - SQL queries: https://github.com/Abionit/subscription-analytics-lab/blob/main/sql/portfolio_queries.sql
+  - Sample report: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/subscription_analytics_report.md
 - Demonstrates: analytical modeling, reusable SQL, reporting outputs, dashboarding, and business communication
 
 ### Wazuh SOC Detection Engineering Lab
 
 ![Wazuh SOC Detection Engineering Lab case study](assets/case-studies/wazuh-soc-detection-lab.svg)
 
-Flagship security analytics project built around Wazuh SIEM/XDR, custom detections, MITRE ATT&CK mapping, triage workflow, and alert reporting.
+Security analytics project built around Wazuh SIEM/XDR, custom detections, MITRE ATT&CK mapping, triage workflow, and alert reporting.
 
-- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
 - Stack: Wazuh, Docker, Python, SQLite, Streamlit
 - Focus: SOC detection engineering, custom rules, alert triage, MITRE mapping, and security analytics reporting
+- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
 - Demonstrates: SIEM workflow, detection logic, operational metrics, reporting, and technical documentation
 
 ### SOC Home Lab v2
 
 ![SOC Home Lab v2 case study](assets/case-studies/soc-home-lab-v2.svg)
 
-Security analytics project that simulates a small SOC detection and reporting workflow.
+Compact security analytics project that turns simulated telemetry into enriched alerts, SQL reports, and operational metrics.
 
-- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
 - Stack: Python, SQL, SQLite, Streamlit
-- Focus: simulated telemetry, detection rules, alert enrichment, triage metrics, and SQL reporting
-- Demonstrates: operational analysis, security context, metric design, and dashboard presentation
+- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
+- Demonstrates: operational analysis, alert reporting, SQL review, and dashboard presentation
 
-## Technical Skills
+## Skills
 
 - Data: SQL, Python, pandas, SQLite
-- Reporting: KPI design, CSV/Markdown reporting, Streamlit dashboards
+- Reporting: KPI design, CSV and Markdown reporting, Streamlit dashboards
 - Workflow: GitHub, reproducible scripts, documentation, testing basics
-- Security context: SOC concepts, Wazuh, detection logic, alert triage, operational metrics
+- Secondary security context: SOC concepts, Wazuh, detection logic, alert triage, operational metrics
 
-## Learning Path
+## Current Learning
 
 - DataCamp SQL track, including Intermediate SQL
-- Data Analyst foundations with SQL and Python
-- Ongoing practice through portfolio projects and technical documentation
+- Python for analytics workflows and reporting
+- Portfolio projects designed around business and operational questions
 
 ## Contact
 
