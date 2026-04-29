@@ -2,7 +2,7 @@
 
 ## Profile Summary
 
-Systems Engineering student from Cartagena, Colombia, focused on practical data analysis.
+Early-career analytics profile from Cartagena, Colombia, with a Systems Engineering background and a focus on practical data analysis.
 
 My portfolio is built around SQL, Python, KPI reporting, dashboards, and clear analytical communication. The strongest projects start with a business or operational question, structure the data in a reproducible way, and end with outputs that are easy to review: SQL queries, CSV exports, Markdown reports, and dashboards.
 
@@ -33,10 +33,10 @@ Secondary path:
 - Projects include dashboards, reports, and exported outputs that can be reviewed quickly.
 - Security work adds operational range without changing the portfolio's main direction toward data and BI roles.
 
-## Best 5-Minute Review Path
+## Review Sequence
 
 1. Portfolio site: https://abionit.github.io/AbionitOne/
-Fastest overview of role fit, strongest projects, technical stack, and contact.
+Compact overview of role fit, strongest projects, technical stack, and contact.
 
 2. [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
 Start with the main README and the report preview.
@@ -45,7 +45,7 @@ Start with the main README and the report preview.
 Review representative SQL for KPIs, cohorts, churn risk, segmentation, backlog, and SLA metrics.
 
 4. [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
-Review only if the role benefits from security analytics, monitoring, or alert operations context.
+Most relevant when the role benefits from security analytics, monitoring, or alert operations context.
 
 ## Role Fit
 
