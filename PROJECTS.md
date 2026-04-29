@@ -4,19 +4,22 @@ This portfolio is optimized for entry-level Data Analyst, BI Analyst, Reporting 
 
 ## Best Review Order
 
-1. [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
+1. Portfolio site: https://abionit.github.io/AbionitOne/
+Fastest overview of role fit, strongest projects, technical stack, and contact.
+
+2. [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
 Business analytics case study covering revenue, retention, churn risk, customer health, SQL reporting, and dashboard outputs.
 
-2. [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
+3. [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
 Fast proof of SQL work across KPI reporting, cohorts, segmentation, backlog analysis, and operational metrics.
 
-3. [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
+4. [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
 Short guide to role fit, strongest evidence, and the best discussion areas for interviews.
 
-4. [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
+5. [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
 Security analytics project showing detection logic, triage reporting, custom rules, and operational review.
 
-5. [SOC Home Lab v2](https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2)
+6. [SOC Home Lab v2](https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2)
 Compact SQL and dashboard project focused on enriched alerts, operational metrics, and reusable reporting.
 
 ## Primary Analytics Project
