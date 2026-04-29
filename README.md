@@ -2,16 +2,16 @@
 
 # Miguel Angel Torres Mercado
 
-Entry-Level Data Analyst focused on SQL, Python, KPI reporting, dashboards, and operational analytics.
+Data Analyst focused on SQL, Python, KPI reporting, dashboards, and operational analytics.
 
-I am a Systems Engineering student from Cartagena, Colombia, building a portfolio around practical data workflows: querying, cleaning, modeling, reporting, and explaining results clearly. My cybersecurity background is a secondary differentiator that strengthens my work with monitoring, alerts, prioritization, and evidence-based analysis.
+I am based in Cartagena, Colombia, with a Systems Engineering background and a portfolio built around practical data workflows: querying, cleaning, modeling, reporting, and explaining results clearly. My cybersecurity background is a secondary differentiator that strengthens my work with monitoring, alerts, prioritization, and evidence-based analysis.
 
-## Start Here
+## Key Links
 
-If you only review four links, start with these:
+Core review links:
 
 - Portfolio site: https://abionit.github.io/AbionitOne/
-- Recruiter brief: [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
+- Profile brief: [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
 - Primary analytics project: [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
 - SQL proof of work: [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
 
