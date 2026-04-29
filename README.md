@@ -8,13 +8,14 @@ I am a Systems Engineering student from Cartagena, Colombia, building a portfoli
 
 ## Start Here
 
-If you only review three links, start with these:
+If you only review four links, start with these:
 
+- Portfolio site: https://abionit.github.io/AbionitOne/
 - Recruiter brief: [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
 - Primary analytics project: [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
 - SQL proof of work: [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
 
-## Role Direction
+## Primary Direction
 
 This portfolio is primarily aligned to:
 
@@ -22,7 +23,11 @@ This portfolio is primarily aligned to:
 - BI Analyst
 - Reporting Analyst
 - Operations Analyst
-- Security Analytics Analyst, as a secondary path
+
+Secondary differentiator:
+
+- Security Analytics Analyst
+- Analytics-heavy SOC environments
 
 ## Featured Work
 
@@ -48,7 +53,10 @@ Security analytics project built around Wazuh SIEM/XDR, custom detections, MITRE
 
 - Stack: Wazuh, Docker, Python, SQLite, Streamlit
 - Focus: SOC detection engineering, custom rules, alert triage, MITRE mapping, and security analytics reporting
-- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
+- Review path:
+  - Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
+  - Detection catalog: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/detections/detection_catalog.md
+  - Executive report: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/output/executive_report.md
 - Demonstrates: SIEM workflow, detection logic, operational metrics, reporting, and technical documentation
 
 ### SOC Home Lab v2
@@ -58,7 +66,10 @@ Security analytics project built around Wazuh SIEM/XDR, custom detections, MITRE
 Compact security analytics project that turns simulated telemetry into enriched alerts, SQL reports, and operational metrics.
 
 - Stack: Python, SQL, SQLite, Streamlit
-- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
+- Review path:
+  - Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
+  - SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
+  - Evidence gallery: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/evidence/v2/README.md
 - Demonstrates: operational analysis, alert reporting, SQL review, and dashboard presentation
 
 ## Skills
@@ -70,12 +81,13 @@ Compact security analytics project that turns simulated telemetry into enriched 
 
 ## Current Learning
 
-- DataCamp SQL track, including Intermediate SQL
-- Python for analytics workflows and reporting
-- Portfolio projects designed around business and operational questions
+- SQL for KPI reporting, segmentation, and cohort analysis
+- Python for analytics workflows and reporting automation
+- Power BI depth, cloud fundamentals, and broader operational analytics
 
 ## Contact
 
+- Portfolio: https://abionit.github.io/AbionitOne/
 - LinkedIn: https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290
 - Email: miguelangeltorresmercado58@gmail.com
 - GitHub: https://github.com/Abionit
