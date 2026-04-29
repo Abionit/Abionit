@@ -8,6 +8,10 @@ My portfolio is built around SQL, Python, KPI reporting, dashboards, and clear a
 
 My cybersecurity background is a secondary differentiator. It adds an operational mindset around alerts, prioritization, monitoring, triage, and evidence-based investigation.
 
+Portfolio site:
+
+- https://abionit.github.io/AbionitOne/
+
 ## Primary Role Direction
 
 I am primarily targeting:
@@ -31,13 +35,16 @@ Secondary path:
 
 ## Best 5-Minute Review Path
 
-1. [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
+1. Portfolio site: https://abionit.github.io/AbionitOne/
+Fastest overview of role fit, strongest projects, technical stack, and contact.
+
+2. [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
 Start with the main README and the report preview.
 
-2. [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
+3. [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
 Review representative SQL for KPIs, cohorts, churn risk, segmentation, backlog, and SLA metrics.
 
-3. [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
+4. [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
 Review only if the role benefits from security analytics, monitoring, or alert operations context.
 
 ## Role Fit
@@ -59,12 +66,13 @@ Review only if the role benefits from security analytics, monitoring, or alert o
 
 ## Current Learning Focus
 
-- DataCamp SQL track, including Intermediate SQL
-- Python for analytics workflows
+- SQL for KPI reporting, segmentation, and cohort analysis
+- Python for analytics workflows and reporting automation
 - Continued portfolio work around reporting, metrics, and analytical communication
 
 ## Contact
 
+- Portfolio: https://abionit.github.io/AbionitOne/
 - LinkedIn: https://linkedin.com/in/miguel-angel-torres-mercado-3b7bb8290
 - GitHub: https://github.com/Abionit
 - Email: miguelangeltorresmercado58@gmail.com
