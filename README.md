@@ -32,11 +32,11 @@ Secondary differentiator:
 
 ## Business Value Snapshot
 
-| Project | Company problem it simulates | What the project is useful for | What I can contribute |
+| Project | Company problem | Practical use | Evidence shown |
 | --- | --- | --- | --- |
-| Subscription Analytics Lab | A subscription company needs to understand revenue, retention, churn risk, and customer health. | KPI reporting, churn monitoring, cohort analysis, customer segmentation, and revenue review. | I can turn raw business data into SQL analysis, Python workflows, dashboards, reports, and prioritized recommendations. |
-| Wazuh SOC Detection Engineering Lab | A security team needs better visibility into alerts, detections, triage, and operational risk. | Detection reporting, SOC metrics, alert prioritization, MITRE mapping, and executive security summaries. | I can connect technical security events with measurable operational reporting and clear documentation. |
-| SOC Home Lab v2 | An operations or SOC team needs to monitor alert workload, backlog, severity, and response timing. | Operational dashboards, SQL reporting, SLA-style metrics, and queue prioritization. | I can build analytical views that help teams understand what needs attention first. |
+| Subscription Analytics Lab | A subscription business needs visibility into revenue, retention, churn risk, and customer health. | Monthly KPI review, churn monitoring, cohort analysis, customer segmentation, and revenue-risk review. | SQL analysis, Python data modeling, dashboard-ready outputs, Markdown reporting, and prioritized customer-risk views. |
+| Wazuh SOC Detection Engineering Lab | A security team needs to understand detection coverage, alert priority, triage flow, and operational risk. | Detection validation, alert triage reporting, MITRE mapping, SOC metrics, and executive security summaries. | Custom detection documentation, alert analytics, rule mapping, triage outputs, and technical-to-business reporting. |
+| SOC Home Lab v2 | A monitoring team needs to track alert volume, severity, backlog, ownership, and response timing. | Queue review, SLA-style tracking, rule performance analysis, and operational dashboards. | SQL reporting, KPI exports, alert enrichment, trend analysis, and dashboard views for prioritization. |
 
 For a fuller explanation of each project's business problem, practical use, and role value, see [PROJECT_BUSINESS_VALUE.md](PROJECT_BUSINESS_VALUE.md).
 
@@ -49,9 +49,9 @@ For a fuller explanation of each project's business problem, practical use, and 
 End-to-end analytics project for a simulated subscription business.
 
 - Stack: Python, SQL, SQLite, Streamlit
-- Business problem: subscription teams need visibility into recurring revenue, churn risk, customer health, and retention trends.
-- Practical use: supports monthly KPI review, customer prioritization, revenue-risk monitoring, and executive reporting.
-- My contribution: analytical modeling, reusable SQL, Python pipeline work, dashboard-ready outputs, and clear business communication.
+- Business problem: subscription teams need reliable visibility into recurring revenue, churn risk, customer health, and retention trends.
+- Practical use: monthly KPI review, customer prioritization, revenue-risk monitoring, and executive reporting.
+- Evidence shown: analytical modeling, reusable SQL, Python pipeline work, dashboard-ready outputs, and clear business communication.
 - Review path:
   - Repository: https://github.com/Abionit/subscription-analytics-lab
   - SQL queries: https://github.com/Abionit/subscription-analytics-lab/blob/main/sql/portfolio_queries.sql
@@ -64,9 +64,9 @@ End-to-end analytics project for a simulated subscription business.
 Security analytics project built around Wazuh SIEM/XDR, custom detections, MITRE ATT&CK mapping, triage workflow, and alert reporting.
 
 - Stack: Wazuh, Docker, Python, SQLite, Streamlit
-- Business problem: security teams need to reduce noise, prioritize alerts, and explain detection coverage clearly.
-- Practical use: supports detection validation, triage reporting, operational metrics, and security leadership summaries.
-- My contribution: structured detection documentation, alert analytics, MITRE mapping, and reporting that translates technical signals into reviewable evidence.
+- Business problem: security teams need to reduce alert noise, prioritize detections, and explain coverage clearly.
+- Practical use: detection validation, triage reporting, operational metrics, and security leadership summaries.
+- Evidence shown: structured detection documentation, alert analytics, MITRE mapping, and reporting that translates technical signals into reviewable evidence.
 - Review path:
   - Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
   - Detection catalog: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/detections/detection_catalog.md
@@ -80,8 +80,8 @@ Compact security analytics project that turns simulated telemetry into enriched 
 
 - Stack: Python, SQL, SQLite, Streamlit
 - Business problem: monitoring teams need to understand alert volume, severity, backlog, ownership, and response timing.
-- Practical use: supports queue review, SLA-style tracking, rule performance analysis, and operational dashboards.
-- My contribution: I can structure event data into reusable SQL reports, KPI outputs, and dashboard views that help teams prioritize work.
+- Practical use: queue review, SLA-style tracking, rule performance analysis, and operational dashboards.
+- Evidence shown: event enrichment, reusable SQL reports, KPI outputs, trend analysis, and dashboard views for prioritizing work.
 - Review path:
   - Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
   - SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
