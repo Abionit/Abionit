@@ -1,115 +1,117 @@
 # Project Business Value
 
-This document explains what each portfolio project is for, what company problem it simulates, and what I can contribute in a data, BI, reporting, operations, or security analytics role.
+This page explains the business purpose behind each portfolio project. The goal is to make the projects easier to review from a hiring perspective: what problem they represent, how they could be used inside a company, and what kind of analytical work they demonstrate.
 
 ## Summary
 
-| Project | Best role fit | Business value |
+| Project | Best fit | Business value |
 | --- | --- | --- |
-| Subscription Analytics Lab | Data Analyst, BI Analyst, Reporting Analyst | Turns subscription business data into KPIs, churn risk signals, retention analysis, and revenue review. |
-| Wazuh SOC Detection Engineering Lab | Security Analytics Analyst, SOC Analyst, Detection Support | Turns security events and detections into triage evidence, operational metrics, and executive reporting. |
-| SOC Home Lab v2 | Operations Analyst, Security Analytics, Reporting Analyst | Turns alert telemetry into backlog, severity, SLA-style, and rule-performance reporting. |
+| Subscription Analytics Lab | Data Analyst, BI Analyst, Reporting Analyst | Revenue, retention, churn risk, customer health, and KPI reporting for a subscription business. |
+| Wazuh SOC Detection Engineering Lab | Security Analytics Analyst, Junior SOC Analyst | Detection coverage, alert triage, operational security metrics, and executive reporting. |
+| SOC Home Lab v2 | Operations Analyst, Reporting Analyst, Security Analytics | Alert workload, backlog review, SLA-style metrics, and rule-performance reporting. |
 
 ## Subscription Analytics Lab
 
 Repository: https://github.com/Abionit/subscription-analytics-lab
 
-### What It Is For
+### What The Project Represents
 
-This project simulates an analytics workflow for a subscription-based company. It is designed to answer practical business questions around recurring revenue, retention, churn risk, customer health, and segment performance.
+This project models the kind of reporting workflow a subscription business would need to understand revenue, retention, customer health, and churn risk. It is built around recurring metrics rather than one-time analysis, which makes it closer to the kind of work expected in data, BI, and reporting roles.
 
-### Company Problem It Solves
+### Company Problem
 
-A subscription business needs to know which customers are healthy, which accounts are at risk, where revenue is exposed, and how retention is changing over time. Without a structured analytical layer, teams may react late to churn signals or rely on scattered spreadsheets instead of consistent KPIs.
+A subscription company needs to know whether revenue is growing, which customers are at risk, how retention changes over time, and which segments deserve attention. If those signals are scattered across separate files or reports, teams can miss churn risk or react too late.
 
-### Practical Business Use
+### How It Could Be Used In A Company
 
-- Monthly KPI reporting for active customers, MRR, ARPA, churn, and retention.
-- Churn-risk watchlists for customer success or operations teams.
-- Cohort retention analysis to understand customer behavior after signup.
-- Segment and regional analysis to identify stronger or weaker customer groups.
-- Revenue anomaly review to identify accounts or periods that need attention.
+- Monthly KPI review for MRR, ARPA, active customers, churn, and retention.
+- Customer success prioritization through a churn-risk watchlist.
+- Cohort retention analysis to compare customer behavior over time.
+- Segment and regional review to identify weaker or stronger groups.
+- Revenue anomaly checks to flag unusual movement in accounts or periods.
 
-### What I Can Contribute
+### Evidence In The Project
 
-- Build SQL queries that answer business questions clearly.
-- Use Python to clean, model, and export analytical data.
-- Create dashboard-ready datasets and reporting outputs.
-- Translate technical results into business summaries and recommendations.
-- Help teams move from raw data to repeatable KPI review.
+- Python pipeline for generating and preparing analytical data.
+- SQLite layer and reusable SQL queries for business review.
+- KPI exports, cohort outputs, churn watchlist, segment summaries, and anomaly outputs.
+- Markdown report designed to summarize findings without requiring a local setup.
+- Streamlit dashboard path for interactive review.
 
-### Interview Story
+### Value For A Data Analyst Role
 
-I would present this as my strongest Data Analyst project because it shows the full workflow: business question, data preparation, SQL analysis, KPI design, risk prioritization, dashboard outputs, and written reporting.
+This is the strongest project for Data Analyst and BI roles because it shows the full analytical path: define the business questions, prepare the data, calculate useful metrics, create SQL outputs, and explain the results in a way that a team could review.
 
 ## Wazuh SOC Detection Engineering Lab
 
 Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
 
-### What It Is For
+### What The Project Represents
 
-This project simulates a SOC detection and reporting environment using Wazuh SIEM/XDR. It focuses on detection logic, MITRE ATT&CK mapping, alert triage, and security analytics reporting.
+This project models a small security analytics workflow using Wazuh SIEM/XDR concepts. It focuses on custom detections, MITRE ATT&CK mapping, alert triage, and operational reporting.
 
-### Company Problem It Solves
+### Company Problem
 
-Security teams often receive many alerts but need to understand which detections matter, how alerts should be prioritized, and how to explain security activity to technical and non-technical stakeholders. This project shows how security events can become structured evidence and operational reporting.
+Security teams need more than raw alerts. They need to understand which detections exist, what each alert means, which events deserve priority, and how to report activity to technical reviewers or leadership.
 
-### Practical Business Use
+### How It Could Be Used In A Company
 
-- Detection coverage review mapped to attacker techniques.
-- Triage support for prioritizing alerts by severity and context.
-- Security reporting for managers or technical reviewers.
-- Operational metrics around alert volume, critical detections, and queue pressure.
-- Documentation that makes detection logic easier to review and maintain.
+- Detection coverage review for common security scenarios.
+- Alert triage support using severity, rule context, and MITRE mapping.
+- Operational reporting around alert volume and critical detections.
+- Documentation of detection logic for review and maintenance.
+- Executive-style summaries that explain risk and activity without relying only on raw logs.
 
-### What I Can Contribute
+### Evidence In The Project
 
-- Connect technical security events with measurable operational metrics.
-- Document detections clearly for analysts and reviewers.
-- Build reports that explain risk, priority, and response status.
-- Support monitoring teams with structured analysis and evidence-based reporting.
-- Bring a data analyst mindset into SOC and security analytics environments.
+- Custom Wazuh rule documentation.
+- Detection catalog mapped to MITRE ATT&CK techniques.
+- Alert analytics outputs and triage queue structure.
+- Executive report and supporting evidence files.
+- Python and SQLite-based reporting workflow.
 
-### Interview Story
+### Value For A Data Or Security Analytics Role
 
-I would present this as a secondary differentiator. It shows that I can work with security data, but the strongest transferable value is analytical: structuring events, measuring alert pressure, prioritizing risk, and communicating findings.
+This project is a secondary differentiator. It keeps the portfolio connected to analytics while showing security context: alert prioritization, operational metrics, detection documentation, and evidence-based reporting.
 
 ## SOC Home Lab v2
 
 Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
 
-### What It Is For
+### What The Project Represents
 
-This project simulates a smaller operational analytics workflow for alert telemetry. It turns raw events into enriched alerts, SQL reports, KPI outputs, and dashboard views.
+This project is a compact operations analytics case study for alert telemetry. It turns simulated events into enriched alerts, KPI outputs, SQL reports, and dashboard views.
 
-### Company Problem It Solves
+### Company Problem
 
-Monitoring and operations teams need to know what is happening in the queue: how many alerts exist, which ones are critical, where backlog is building, which rules create the most workload, and whether response times are healthy.
+Monitoring teams need to understand workload and priority: how many alerts are open, which alerts are critical, where backlog is building, which rules generate the most activity, and whether response timing is acceptable.
 
-### Practical Business Use
+### How It Could Be Used In A Company
 
-- Alert backlog review by severity and status.
-- Rule performance analysis to identify noisy or high-impact detections.
-- SLA-style reporting for triage and resolution time.
-- Operational dashboards for analysts or team leads.
-- SQL-based reporting that can be reused and audited.
+- Daily or weekly queue review by severity and status.
+- Backlog monitoring for open and investigating alerts.
+- Rule-performance review to identify high-volume or high-impact detections.
+- SLA-style reporting for triage and resolution timing.
+- Dashboard views for analysts, team leads, or operations review.
 
-### What I Can Contribute
+### Evidence In The Project
 
-- Organize operational data into useful metrics.
-- Create reports that help teams decide what to review first.
-- Build SQL queries for workload, severity, trend, and response-time analysis.
-- Communicate operational status in a concise and reviewable way.
-- Support data-driven prioritization in monitoring-heavy environments.
+- Event generation and alert enrichment workflow.
+- SQL queries for alert KPIs, trends, rule summaries, and backlog review.
+- CSV outputs for KPI and rule-level reporting.
+- Markdown report for fast review.
+- Evidence gallery with representative dashboard and output views.
 
-### Interview Story
+### Value For An Operations Or Reporting Role
 
-I would use this project to show how I approach operations analytics: define the queue, enrich the data, measure what matters, and present the results in reports and dashboards.
+This project shows how operational data can be structured into useful reporting. The value is not only in the security context, but in the analysis pattern: define the queue, enrich the data, calculate workload metrics, and present the status clearly.
 
-## How These Projects Fit Together
+## Portfolio Positioning
 
-My portfolio is centered on data analysis and business reporting, with security analytics as a technical differentiator.
+The main direction of the portfolio is data analysis and reporting. The security projects are included because they show the same analytical habits in a more technical environment.
 
-- The Subscription Analytics Lab proves my strongest fit for Data Analyst and BI roles.
-- The SOC projects show I can apply the same analytical thinking to operational and security data.
-- Across the portfolio, the common pattern is the same: structure the data, define useful metrics, create reusable analysis, and explain the results clearly.
+- Subscription Analytics Lab is the primary project for Data Analyst and BI roles.
+- Wazuh SOC Detection Engineering Lab adds security analytics depth.
+- SOC Home Lab v2 shows operational reporting and prioritization.
+
+Across the projects, the common pattern is consistent: structure the data, define useful metrics, create reusable analysis, and communicate the result clearly.
