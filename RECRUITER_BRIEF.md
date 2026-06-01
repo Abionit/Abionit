@@ -28,10 +28,10 @@ Secondary path:
 
 ## Why This Portfolio Is Worth Reviewing
 
-- SQL work is tied to real questions, not isolated syntax exercises.
+- SQL work is tied to practical business and operational questions.
 - Python is used for reproducible data workflows and report generation.
 - Projects include dashboards, reports, and exported outputs that can be reviewed quickly.
-- Security work adds operational range without changing the portfolio's main direction toward data and BI roles.
+- The main project focuses on business analytics; the security projects add operational range.
 
 ## Review Sequence
 
@@ -41,10 +41,13 @@ Compact overview of role fit, strongest projects, technical stack, and contact.
 2. [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
 Start with the main README and the report preview.
 
-3. [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
+3. [PROJECT_BUSINESS_VALUE.md](PROJECT_BUSINESS_VALUE.md)
+Review what each project is for, what company problem it represents, and what evidence it provides.
+
+4. [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
 Review representative SQL for KPIs, cohorts, churn risk, segmentation, backlog, and SLA metrics.
 
-4. [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
+5. [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
 Most relevant when the role benefits from security analytics, monitoring, or alert operations context.
 
 ## Role Fit
@@ -52,7 +55,7 @@ Most relevant when the role benefits from security analytics, monitoring, or ale
 | Role family | Strongest evidence | Why it fits |
 | --- | --- | --- |
 | Data Analyst | Subscription Analytics Lab, SQL_EVIDENCE.md | Revenue metrics, retention, churn risk, segmentation, SQL reporting |
-| BI / Reporting Analyst | Subscription Analytics Lab, CASE_STUDIES.md | KPI design, dashboard outputs, report-ready communication |
+| BI / Reporting Analyst | Subscription Analytics Lab, PROJECT_BUSINESS_VALUE.md | KPI design, dashboard outputs, business framing, report-ready communication |
 | Operations Analyst | Subscription Analytics Lab, SOC Home Lab v2 | Operational metrics, backlog-style review, prioritization, reporting |
 | Security Analytics Analyst | Wazuh SOC Detection Engineering Lab, SOC Home Lab v2 | Alert metrics, triage, rule performance, detection logic |
 
