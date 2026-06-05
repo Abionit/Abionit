@@ -2,65 +2,83 @@
 
 ## Profile Summary
 
-Early-career data professional from Cartagena, Colombia, with a Systems Engineering background and practical projects in data pipelines, SQL, data quality, analytical modeling, and reporting.
+Systems Engineer based in Cartagena, Colombia, focused on Data Engineering, cloud data pipelines, data quality, SQL, and Security Operations analytics.
 
-The primary project integrates five operational datasets, applies automated quality controls, builds a reusable analytical layer, and includes a deployment-ready AWS architecture using S3, Glue/PySpark, Glue Data Catalog, Athena, CloudFormation, and an optional Redshift path.
+The portfolio combines data integration, automated validation, analytical modeling, cloud architecture, SIEM detection work, alert triage, and operational reporting. Each project is organized around a practical company problem and includes code, documentation, outputs, and reviewable evidence.
 
-## Target Roles
+## Professional Focus
 
-- Junior Data Engineer
+- Data Engineer
 - Analytics Engineer
-- Data Analyst
-- BI / Reporting Analyst
+- Cloud Data Engineering
+- Security Analytics
+- SOC Operations and Detection Engineering
 
-## Strongest Project
+## Primary Data Engineering Project
 
 [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
 
-The project addresses a clear business problem: customer, billing, usage, subscription, and support data are separated, while reporting teams need trusted datasets for revenue, retention, and churn analysis.
+The project addresses a common data problem: customer, subscription, billing, product usage, and support information is separated across different sources, while reporting teams need reliable datasets for revenue, retention, customer health, and churn analysis.
 
-Evidence available in the repository:
+Evidence available:
 
-- Python pipeline integrating five data sources
-- automated schema, key, foreign-key, completeness, and range checks
+- Python pipeline integrating five source datasets
+- automated schema, key, foreign-key, completeness, and range controls
 - customer-month analytical model
 - SQLite and reusable SQL queries
-- S3 raw and curated architecture
-- AWS Glue PySpark job
+- S3 raw and curated data architecture
+- AWS Glue PySpark transformation
 - Glue Data Catalog crawler and Athena workgroup through CloudFormation
 - Athena analytical queries
 - optional Redshift schema and Parquet load commands
-- unit tests and generated quality report
+- unit tests and generated quality reports
 
 Verified locally:
 
-- 240 customers
-- 2,351 billing events
-- 67,706 product-usage records
-- 3,299 support tickets
-- 24 of 24 quality checks passed
-- 5 of 5 automated tests passed
-- CloudFormation template passed cfn-lint
+- `240` customers
+- `2,351` billing events
+- `67,706` product-usage records
+- `3,299` support tickets
+- `24/24` quality checks passed
+- `5/5` automated tests passed
+- CloudFormation passed `cfn-lint`
 
-The AWS implementation is present as code. It should only be described as deployed after running it in an AWS account and adding execution evidence.
+The AWS implementation is published as code. Cloud execution should only be claimed after deployment and the addition of real AWS evidence.
+
+## Security Operations Projects
+
+### Wazuh SOC Detection Engineering Lab
+
+Demonstrates custom Wazuh detections, MITRE ATT&CK mapping, alert triage, operational metrics, and executive security reporting.
+
+Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
+
+### SOC Home Lab v2
+
+Demonstrates event enrichment, SQL-based alert analysis, backlog review, rule performance, SLA-style metrics, and dashboard reporting.
+
+Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
 
 ## Review Sequence
 
-1. [Primary repository](https://github.com/Abionit/subscription-analytics-lab)
+1. [Data engineering repository](https://github.com/Abionit/subscription-analytics-lab)
 2. [AWS architecture](https://github.com/Abionit/subscription-analytics-lab/blob/main/docs/aws_architecture.md)
 3. [Data quality report](https://github.com/Abionit/subscription-analytics-lab/blob/main/output/data_quality_report.md)
 4. [Glue PySpark job](https://github.com/Abionit/subscription-analytics-lab/blob/main/aws/glue/subscription_etl.py)
 5. [Athena queries](https://github.com/Abionit/subscription-analytics-lab/blob/main/aws/athena/portfolio_queries.sql)
-6. [SQL evidence](SQL_EVIDENCE.md)
+6. [Wazuh SOC project](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
+7. [SQL evidence](SQL_EVIDENCE.md)
 
 ## Interview Discussion Areas
 
-- Why the pipeline uses raw and curated S3 zones
-- How quality gates prevent invalid data from reaching analytical tables
-- Why Parquet partitioning reduces Athena scan cost
-- How five operational sources are joined into a customer-month model
-- When Athena is sufficient and when Redshift becomes useful
-- How the same pipeline can run locally for development and in Glue for cloud processing
+- Raw and curated S3 data zones
+- Data quality gates and pipeline failure behavior
+- Parquet partitioning and Athena scan efficiency
+- Multi-source integration into a customer-month model
+- Athena and Redshift use cases
+- Local development and Glue cloud execution
+- Wazuh detection logic and MITRE ATT&CK mapping
+- SOC alert prioritization and operational metrics
 
 ## Contact
 
