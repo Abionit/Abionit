@@ -1,72 +1,56 @@
 # Projects
 
-This portfolio is optimized for entry-level Data Analyst, BI Analyst, Reporting Analyst, and Operations Analyst roles. The security projects are included as an operational analytics differentiator, not as the primary direction.
+## Data Engineering
 
-## Best Review Order
+### AWS Subscription Data Pipeline
 
-1. Portfolio site: https://abionit.github.io/AbionitOne/
-Fastest overview of role fit, strongest projects, technical stack, and contact.
+Repository: https://github.com/Abionit/subscription-analytics-lab
 
-2. [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
-Business analytics case study covering revenue, retention, churn risk, customer health, SQL reporting, and dashboard outputs.
+Combines five operational sources into validated analytical datasets for revenue, retention, customer health, and churn-risk reporting.
 
-3. [SQL_EVIDENCE.md](SQL_EVIDENCE.md)
-Fast proof of SQL work across KPI reporting, cohorts, segmentation, backlog analysis, and operational metrics.
+- Python and pandas ETL workflow
+- automated schema, key, null, relationship, and range controls
+- customer-month analytical model
+- SQLite and reusable SQL
+- S3 raw and curated architecture
+- AWS Glue PySpark transformation
+- Glue Data Catalog and Athena through CloudFormation
+- optional Redshift load path
+- Streamlit data operations dashboard
 
-4. [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
-Short guide to role fit, strongest evidence, and the best discussion areas for interviews.
+Evidence:
 
-5. [Wazuh SOC Detection Engineering Lab](https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab)
-Security analytics project showing detection logic, triage reporting, custom rules, and operational review.
+- Architecture: https://github.com/Abionit/subscription-analytics-lab/blob/main/docs/aws_architecture.md
+- Glue job: https://github.com/Abionit/subscription-analytics-lab/blob/main/aws/glue/subscription_etl.py
+- Quality report: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/data_quality_report.md
+- Athena queries: https://github.com/Abionit/subscription-analytics-lab/blob/main/aws/athena/portfolio_queries.sql
 
-6. [SOC Home Lab v2](https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2)
-Compact SQL and dashboard project focused on enriched alerts, operational metrics, and reusable reporting.
-
-## Primary Analytics Project
-
-### Subscription Analytics Lab
-
-- Repository: https://github.com/Abionit/subscription-analytics-lab
-- Stack: Python, SQL, SQLite, Streamlit
-- Focus: revenue analytics, retention, churn risk, cohort analysis, and KPI reporting
-
-Strongest evidence:
-
-- SQL queries: https://github.com/Abionit/subscription-analytics-lab/blob/main/sql/portfolio_queries.sql
-- Sample report: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/subscription_analytics_report.md
-- KPI outputs: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/monthly_kpis.csv
-- Churn watchlist: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/churn_risk_watchlist.csv
-
-## Secondary Differentiator: Security Analytics
+## Security Operations
 
 ### Wazuh SOC Detection Engineering Lab
 
-- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
-- Stack: Wazuh, Docker, Python, SQLite, Streamlit
-- Focus: SIEM workflow, custom detections, MITRE ATT&CK mapping, triage, alert analytics, and SOC reporting
+Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
 
-Strongest evidence:
+Detection workflow with custom Wazuh rules, MITRE ATT&CK mapping, alert triage, operational metrics, and executive reporting.
 
-- Lab README: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/README.md
 - Detection catalog: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/detections/detection_catalog.md
 - Custom rules: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/config/wazuh/rules/local_soc_rules.xml
 - Executive report: https://github.com/Abionit/soc-home-lab/blob/portfolio/wazuh-soc-detection-lab/wazuh-soc-detection-lab/output/executive_report.md
 
-### SOC Home Lab v2
+### SOC Operational Analytics
 
-- Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
-- Stack: Python, SQL, SQLite, Streamlit
-- Focus: simulated SOC telemetry, detection rules, alert enrichment, triage metrics, and reporting
+Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
 
-Strongest evidence:
+Transforms simulated telemetry into enriched alerts, backlog metrics, response-time indicators, reusable SQL, and an operational dashboard.
 
 - SQL queries: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/sql/portfolio_queries.sql
-- Sample report: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/output/alerts_report.md
+- Alert report: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/output/alerts_report.md
 - Evidence gallery: https://github.com/Abionit/soc-home-lab/blob/portfolio/soc-home-lab-v2/evidence/v2/README.md
 
-## Technical Communication
+## Security Research
 
-### Write-Ups
+### Controlled Lab Write-Ups
 
-- Repository: https://github.com/Abionit/writeups
-- Demonstrates: clear documentation, structured analysis, and the ability to explain technical work without unnecessary complexity
+Repository: https://github.com/Abionit/writeups
+
+Technical documentation covering controlled Hack The Box and PortSwigger environments, with emphasis on methodology, evidence, impact, and remediation context.
