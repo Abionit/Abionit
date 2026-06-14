@@ -1,0 +1,29 @@
+Net Sales = SUM(fact_sales[net_sales])
+
+Gross Sales = SUM(fact_sales[gross_sales])
+
+Discount Amount = SUM(fact_sales[discount_amount])
+
+Gross Margin = SUM(fact_sales[gross_margin])
+
+Margin Rate = DIVIDE([Gross Margin], [Net Sales])
+
+Units Sold = SUM(fact_sales[quantity])
+
+Orders = DISTINCTCOUNT(fact_sales[sale_id])
+
+Average Order Value = DIVIDE([Net Sales], [Orders])
+
+Stockout Risk Count = SUM(fact_inventory[stockout_risk])
+
+Average On Hand Units = AVERAGE(fact_inventory[on_hand_units])
+
+Late Deliveries = SUM(fact_delivery[is_late])
+
+Deliveries = COUNTROWS(fact_delivery)
+
+Late Delivery Rate = DIVIDE([Late Deliveries], [Deliveries])
+
+Average Delivery Days = AVERAGE(fact_delivery[delivery_days])
+
+Sales Per Customer = DIVIDE([Net Sales], DISTINCTCOUNT(fact_sales[customer_id]))
