@@ -1,5 +1,33 @@
 # Projects
 
+## Business Intelligence And Analytics
+
+### Retail Operations BI Lab
+
+Repository path: [projects/retail-operations-bi-lab](projects/retail-operations-bi-lab)
+
+Business intelligence and data engineering case study for a retail operation that needs reliable sales, inventory, customer, and fulfillment metrics.
+
+- Python ETL workflow
+- star schema for Power BI
+- DAX measures for revenue, margin, delivery, stockout, and customer KPIs
+- SQL queries for business analysis
+- data quality checks before modeling
+- Power BI report blueprint
+- recruiter review guide
+
+Business problem:
+
+Retail teams often work from separate sales, inventory, product, customer, and delivery files. The project builds a clean analytical layer so managers can explain revenue, margin pressure, stockout risk, late deliveries, and customer segment contribution from one model.
+
+Evidence:
+
+- Business case: [projects/retail-operations-bi-lab/docs/business_case.md](projects/retail-operations-bi-lab/docs/business_case.md)
+- Power BI blueprint: [projects/retail-operations-bi-lab/powerbi/report_blueprint.md](projects/retail-operations-bi-lab/powerbi/report_blueprint.md)
+- DAX measures: [projects/retail-operations-bi-lab/powerbi/measures.dax](projects/retail-operations-bi-lab/powerbi/measures.dax)
+- SQL queries: [projects/retail-operations-bi-lab/sql/analytics_queries.sql](projects/retail-operations-bi-lab/sql/analytics_queries.sql)
+- Generated summary: [projects/retail-operations-bi-lab/output/business_summary.md](projects/retail-operations-bi-lab/output/business_summary.md)
+
 ## Data Engineering
 
 ### AWS Subscription Data Pipeline
