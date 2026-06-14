@@ -2,14 +2,15 @@
 
 # Miguel Angel Torres Mercado
 
-Systems Engineer focused on Data Engineering, cloud data pipelines, data quality, and Security Operations analytics.
+Systems Engineer focused on Data Engineering, cloud data pipelines, data quality, business intelligence, and Security Operations analytics.
 
-Based in Cartagena, Colombia. My work combines Python, SQL, AWS-oriented data architecture, ETL workflows, analytical modeling, and security monitoring. The projects in this portfolio are structured around practical company problems, reproducible execution, technical documentation, and reviewable evidence.
+Based in Cartagena, Colombia. My work combines Python, SQL, AWS-oriented data architecture, ETL workflows, analytical modeling, Power BI-ready reporting, and security monitoring. The projects in this portfolio are structured around practical company problems, reproducible execution, technical documentation, and reviewable evidence.
 
 ## Key Links
 
 - Portfolio site: https://abionit.github.io/AbionitOne/
 - Recruiter brief: [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md)
+- BI analytics project: [Retail Operations BI Lab](projects/retail-operations-bi-lab)
 - Data engineering project: [Subscription Analytics Lab](https://github.com/Abionit/subscription-analytics-lab)
 - AWS architecture: https://github.com/Abionit/subscription-analytics-lab/blob/main/docs/aws_architecture.md
 - Data quality evidence: https://github.com/Abionit/subscription-analytics-lab/blob/main/output/data_quality_report.md
@@ -20,11 +21,47 @@ Based in Cartagena, Colombia. My work combines Python, SQL, AWS-oriented data ar
 
 - Data Engineer
 - Analytics Engineer
+- BI / Data Analyst
 - Cloud Data Engineering
 - Security Analytics
 - SOC Operations and Detection Engineering
 
 ## Featured Work
+
+### Retail Operations BI Lab
+
+Business intelligence and data engineering case study for a retail operation.
+
+**Company problem**
+
+Retail teams often work from separate sales, inventory, product, customer, and delivery files. When those sources are not connected, managers can see revenue but cannot explain margin pressure, stockout risk, late deliveries, or customer segment contribution from one model.
+
+**Solution**
+
+- Generates realistic retail source data.
+- Validates source quality before modeling.
+- Builds a star schema with sales, inventory, delivery, date, store, product, and customer tables.
+- Provides DAX measures for Power BI reporting.
+- Includes SQL queries for revenue, margin, inventory, delivery, and customer analysis.
+- Documents dashboard pages, model relationships, business reasoning, and review path.
+
+**Verified evidence**
+
+- Net sales: `1,186,697.37`
+- Gross margin: `476,209.63`
+- Margin rate: `40.13%`
+- Orders analyzed: `11,969`
+- Inventory rows at stockout risk: `135`
+- Late delivery rate: `30.01%`
+- Local model tests passed: `4/4`
+
+**Review path**
+
+- Project: [projects/retail-operations-bi-lab](projects/retail-operations-bi-lab)
+- Business case: [projects/retail-operations-bi-lab/docs/business_case.md](projects/retail-operations-bi-lab/docs/business_case.md)
+- Power BI blueprint: [projects/retail-operations-bi-lab/powerbi/report_blueprint.md](projects/retail-operations-bi-lab/powerbi/report_blueprint.md)
+- DAX measures: [projects/retail-operations-bi-lab/powerbi/measures.dax](projects/retail-operations-bi-lab/powerbi/measures.dax)
+- SQL queries: [projects/retail-operations-bi-lab/sql/analytics_queries.sql](projects/retail-operations-bi-lab/sql/analytics_queries.sql)
 
 ### AWS Subscription Data Pipeline
 
@@ -98,6 +135,7 @@ Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-
 
 | Area | Tools and evidence |
 | --- | --- |
+| BI and analytics | Power BI model blueprint, DAX measures, star schema, business KPI design |
 | Data pipelines | Python orchestration, pandas transformations, five-source integration, repeatable ETL workflow |
 | Data quality | Schema, key, null, foreign-key, category, revenue, usage, and support validation |
 | SQL and modeling | SQLite analytical layer, customer-month model, KPI views, Athena queries, Redshift schema |
@@ -108,6 +146,7 @@ Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-
 ## Technical Stack
 
 - Programming and data: Python, pandas, SQL, SQLite
+- BI and reporting: Power BI model design, DAX, star schema, KPI reporting, dashboard blueprint
 - Data engineering: ETL/ELT concepts, data integration, data validation, quality gates, analytical modeling, Parquet partitioning
 - AWS project stack: S3, Glue, PySpark, Glue Data Catalog, Athena, CloudFormation
 - Warehouse integration: Redshift schema and S3 Parquet load path
@@ -117,6 +156,7 @@ Repository: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-
 
 ## Current Development
 
+- Power BI dashboard reconstruction from the retail star schema
 - Deployment and monitoring of the AWS pipeline
 - PySpark processing and partition optimization
 - Redshift warehouse operations
